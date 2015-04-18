@@ -1,21 +1,26 @@
 ---
 layout: default
-title: About Emerald
+title: About Redmerald
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+Redmerald is a theme based on [Jacopo Rabolini](http://www.jacoporabolini.com)'s [Emerald](https://github.com/KingFelix/emerald/)
 
-![Emerald](/img/Emerald01.png "Emerald")
+## Setup & usage
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+The [Jekyll documentation](http://jekyllrb.com) is the best starting point, if you haven't read it yet.
+
+Because Redmerald is based on another theme, you may want to read the [original documentation](https://github.com/KingFelix/emerald/blob/master/readme.md)
+
+Simply download the .zip folder from the [repository on Github](https://github.com/Vesuvium/redmerald/archive/master.zip).
 
 After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+It is also possible to fork the repository and use Github Pages as hosting.
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+You will have to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Redmerald in the root.
 
-Enjoy!
+
+## License
+
+Redmerald is released under [MIT License](license.md).
