@@ -1,13 +1,13 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Redmerald | A simple Jekyll theme
+description: "A minimal blog template, built with Jekyll."
+url: "http://github.com/Vesuvium/redmerald"
 author:
-  name: "Jacopo Rabolini"
-  url: "http://www.jacoporabolini.com"
+  name: "Vesuvium"
+  url: "http://github.com/Vesuvium"
 
 # Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /redmerald/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
