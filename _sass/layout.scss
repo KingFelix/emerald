@@ -8,7 +8,7 @@ nav {
   background-color: $main-color;
   top: 0;
   bottom: 0;
-  right:-14rem;
+  left:-14rem;
   color: $background-color;
   opacity: 0.95;
   transition: all 0.3s ease-in;
@@ -34,7 +34,7 @@ nav {
 }
 
 nav.menu-open {
-  transform: translateX(-14rem);
+  transform: translateX(14rem);
   width: 100%;
   @media (min-width: 940px) {
     width: 30%;
@@ -54,7 +54,7 @@ nav.menu-open {
   display: block;
   position: absolute;
   top: 35px;
-  right: 25px;
+  left: 25px;
   z-index: 10;
   height: 24px;
 }
