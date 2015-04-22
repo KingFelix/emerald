@@ -25,7 +25,7 @@ nav {
       font-size: 1em;
     }
     &:hover {
-      background-color: lighten($main-color, 5%);
+      background-color: lighten($main-color, 8.5%);
     }
   }
   span {
@@ -97,6 +97,9 @@ nav.menu-open {
 }
 
 /* Main content */
+h1, h2 {
+	font-family: Cinzel, serif;
+}
 
 .fixed {
   position: fixed;
@@ -126,8 +129,8 @@ nav.menu-open {
   	display: block;
   }
   h1 {
-  	font-family: 'Signika', sans-serif; //Emerald logo font
-    font-weight: 600;
+  	font-family: 'Cinzel', sans-serif;
+    font-weight: 700;
   }
   &:after {
   	display: block;
