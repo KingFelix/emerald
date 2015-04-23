@@ -17,7 +17,8 @@ nav {
   text-align: center;
   @media (min-width: 940px) {
     width: 22.5%;
-    transform: translateX(14rem); 
+    transform: translateX(14rem);
+    height: 91.2%;
   }
   a {
     display: block;
@@ -260,5 +261,9 @@ footer {
   padding: 0.6667em 0;
   @media (min-width: 940px) {
     clear: both;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 22.5%;
   }
 }
