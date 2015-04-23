@@ -8,13 +8,18 @@ nav {
   background-color: $main-color;
   top: 0;
   bottom: 0;
-  right:-14rem;
+  left:-14rem;
   color: $background-color;
   opacity: 0.95;
   transition: all 0.3s ease-in;
   z-index: 1;
   padding: 72px 0;
   text-align: center;
+  @media (min-width: 940px) {
+    width: 22.5%;
+    transform: translateX(14rem);
+    height: 91.2%;
+  }
   a {
     display: block;
     color: $background-color;
@@ -25,7 +30,7 @@ nav {
       font-size: 1em;
     }
     &:hover {
-      background-color: lighten($main-color, 5%);
+      background-color: #FFF;
     }
   }
   span {
@@ -34,10 +39,10 @@ nav {
 }
 
 nav.menu-open {
-  transform: translateX(-14rem);
+  transform: translateX(14rem);
   width: 100%;
   @media (min-width: 940px) {
-    width: 30%;
+    width: 22.5%;
   }
 }
 
@@ -52,11 +57,14 @@ nav.menu-open {
 
 #nav-menu {
   display: block;
-  position: absolute;
+  position: fixed;
   top: 35px;
-  right: 25px;
+  left: 25px;
   z-index: 10;
   height: 24px;
+  @media (min-width: 940px) {
+    display: none;
+  }
 }
 
 /* Icon menu */
@@ -97,6 +105,9 @@ nav.menu-open {
 }
 
 /* Main content */
+h1, h2 {
+	font-family: Cinzel, serif;
+}
 
 .fixed {
   position: fixed;
@@ -109,12 +120,23 @@ nav.menu-open {
 	margin:0 auto;
 	max-width: 730px;
 	padding: 0 1.5rem;
+	@media (min-width: 940px) {
+	  float: right;
+	  max-width: none;
+	  width: 75%;
+  }
 }
 
 #header {
-	text-align: center;
+  text-align: center;
   padding: 24px 0;
   position: relative;
+  @media (min-width: 940px) {
+    float: right;
+    text-align: left;
+    width: 75%;
+  }
+  
   a {
   	text-decoration: none;
   	color: $text-color;
@@ -126,8 +148,7 @@ nav.menu-open {
   	display: block;
   }
   h1 {
-  	font-family: 'Signika', sans-serif; //Emerald logo font
-    font-weight: 600;
+    font-weight: 700;
   }
   &:after {
   	display: block;
@@ -152,6 +173,9 @@ nav.menu-open {
   @media (min-width: 940px) {
       margin-bottom: 1.3334em;
     }
+  .by-line {
+	display: none;
+	}
 }
 
 .post+.post:before {
@@ -235,4 +259,11 @@ footer {
   color: $background-color;
   text-align: center;
   padding: 0.6667em 0;
+  @media (min-width: 940px) {
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 22.5%;
+  }
 }
