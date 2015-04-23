@@ -172,6 +172,9 @@ h1, h2 {
   @media (min-width: 940px) {
       margin-bottom: 1.3334em;
     }
+  .by-line {
+	display: none;
+	}
 }
 
 .post+.post:before {
