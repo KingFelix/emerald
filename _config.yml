@@ -4,6 +4,7 @@ description: "A minimal blog template, build with Jekyll."
 url: "http://www.jacoporabolini.com/emerald"
 author:
   name: "Jacopo Rabolini"
+  email: "hello@jacoporabolini.com"
   url: "http://www.jacoporabolini.com"
 
 # Build settings
@@ -25,4 +26,9 @@ defaults:
       layout: "post"
 
 # Custom variables
-version: "1.0.1"
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
