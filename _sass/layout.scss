@@ -248,8 +248,12 @@ code {
 /* Footer */
 
 footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
   background-color: $main-color;
   color: $background-color;
   text-align: center;
   padding: 0.6667em 0;
+  height:60px;
 }
