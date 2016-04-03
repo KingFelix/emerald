@@ -1,14 +1,14 @@
 # Site settings
 title: Max Bartlett's Blog
 description: "Computer Science, Math, and anything else"
-url: "maxbartlett.net/emerald"
+url: "maxbartlett.net"
 author:
   name: "Max Bartlett"
   email: "maxwellmbartlett@gmail.com"
   url: "www.maxbartlett.net"
 
 # Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
