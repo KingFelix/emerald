@@ -1,44 +1,5 @@
 /* -- General Layout -- */
 
-/* Navigation */
-
-#nav, #nav-left { 
-  a {
-    display: block;
-    color: $background-color;
-    padding: 0.33334em 0;
-    font-size: 1.5em;
-    font-weight: 400;
-    @media (min-width: 940px) {
-      font-size: 1em;
-    }
-    &:hover {
-      background-color: lighten($main-color, 5%);
-    }
-  }
-  span {
-      font-weight: 200;
-    }
-}
-
-#nav {
-  @include nav-position(right);
-}
-
-#nav-left {
-  @include nav-position(left);
-}
-
-/* Toggle class to open menu */
-
-#nav.menu-open {
-  @include open(-14rem);
-}
-
-#nav-left.menu-open-left {
-  @include open(14rem);
-}
-
 /* Separator after menu */
 
 #nav-list:after {
