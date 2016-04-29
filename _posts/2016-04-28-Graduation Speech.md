@@ -1,8 +1,4 @@
-﻿---
-title: Graduation Speech
----
-
-This year I was one of four students chosen out of a dozen or so of my peers to deliver a speech at my high school graduation. I may have messed up some of the punctuation --- speeches can be somewhat complex to write --- but the content should be clear.
+﻿This year I was one of four students chosen out of a dozen or so of my peers to deliver a speech at my high school graduation. I may have messed up some of the punctuation --- speeches can be somewhat complex to write --- but the content should be clear.
 
 *Ah, the graduation speech – home of the pithy, the platitudinous; home of the banal, trite, and commonplace. We are told to “follow our dreams,” “never give up,” “take a chance,” “never stop learning.” Oh the places we’ll go and things we’ll do. All of us will go out, wielding our diplomas, bursting with knowledge and talent, and change the world! Right?*
 
