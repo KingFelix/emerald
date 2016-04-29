@@ -1,0 +1,15 @@
+---
+title: Graduation Speech
+---
+
+This year I was one of four students chosen out of a dozen or so of my peers to deliver a speech at my high school graduation. I may have messed up some of the punctuation --- speeches can be somewhat complex to write --- but the content should be clear.
+
+*Ah, the graduation speech – home of the pithy, the platitudinous; home of the banal, trite, and commonplace. We are told to “follow our dreams,” “never give up,” “take a chance,” “never stop learning.” Oh the places we’ll go and things we’ll do. All of us will go out, wielding our diplomas, bursting with knowledge and talent, and change the world! Right?*
+
+*We’ve been conditioned our entire lives to believe that there is more meaning in perceived accomplishment than genuine growth, that the fruits of our labor are more valuable than the labor itself, and that status trumps substance. We are part of a culture that worships achievements, numbers, rankings, grades, accreditation, and gold stars above all else. I often think that these checkmarks have become a paradox. I worry that they constrict the kind of experience they claim to promote. However, we can break out of this together.*
+ 
+*Be cautious in concerning yourself so much with the “like-able” or “retweet-able” moments in life. For most of us, 95% of living happens out of the spotlight, in the margins, doing that which is unglamorous and underappreciated. Embrace the average, the unexceptional, and the routine. If we ignore the process and only on focus the results, we’re really only tapping into 5% of what life has to offer.*
+
+*If you’re going to college next fall, take a class that fulfills none of your graduation requirements. Yes, you heard me right, do something that will get you no recognition, no prizes, participation trophies, fame, fortune, or anything else but pure satisfaction, and do it out of genuine interest. Let that thing be the reason you get up in the morning. Then, apply that same bubbling enthusiasm not only to the rest of your classes, but to the rest of your life. No checklists. No gold stars.*
+
+*Start living instead of going through the motions. Be mindful. Be present. Do what you love and do it for you, not for your parents, friends, neighbors, acquaintances, spouse, or that guy on TV. And most importantly, love yourself, because in the end, you’re all you have.*
