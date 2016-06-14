@@ -1,12 +1,8 @@
-﻿---
-title: OCaml from the Very Beginning Chapter 1-4 Solutions
----
-Please let me know if in the comments if you find any errors!
+﻿Please let me know in the comments if you find any errors!
 
 ## Chapter 1
 
-1.
-    * int; 17. Evaluating an int will return the same int.
+1. * int; 17. Evaluating an int will return the same int.
       
     * int; 11. Multiplication has precedence over addition.
       
@@ -83,18 +79,21 @@ Please let me know if in the comments if you find any errors!
         true -> false
       | false -> true;;
     ```
+    
 2. ```
     let rec func n =
     match n with
        1 -> 1
      | _ -> n + func (n-1);;
     ```
+    
 3. ```
     let rec power x n =
      match n with
        1 -> x
      | _ -> x * power x (n-1);;
     ```
+    
 4. I believe all of the functions are easier to read with pattern matching, and the difference in complexity becomes much more noticeable as function size increases.
 
 5. This evaluates to 5.
@@ -110,10 +109,11 @@ Please let me know if in the comments if you find any errors!
        'a'..'z' -> false
        'A'..'Z' -> true;;
     ```
+    
 ## Chapter 4.
 
 1. ```
-    let rec evens l =
+ let rec evens l =
      match l with
        _::a::t -> a :: evens t
      | _ -> [];;
@@ -154,6 +154,7 @@ This function is of type int.
    let rec ispalindrome l =
      if l = palindrome l || l = [] then true else false;;
     ```
+    
 4. ```
     let rec drop_last l =
      match l with
@@ -197,4 +198,3 @@ let rec rev_inner l m =
 let rec rev l = rev_inner l [];;
 ```
 The runtime remains the same as before at O(n), but the space efficiency is now O(1).
-
