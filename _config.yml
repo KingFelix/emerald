@@ -3,9 +3,9 @@ title: Emerald | A simple Jekyll blog
 description: "A minimal blog template, build with Jekyll."
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Archana Singh"
+  email: "ArchieTech.com"
+  url: "http://www.ArchieTech.com"
 
 # Build settings
 baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
