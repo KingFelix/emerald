@@ -5,7 +5,7 @@ title: About
 
 ### The Team
 
-This project was excuted as part of the course Applied Data Analysis ([CS-401])(http://ada.epfl.ch) delivered at EPFL. It is the result of a working cooperation between the three students :  
+This project was excuted as part of the course Applied Data Analysis ([CS-401](http://ada.epfl.ch)) delivered at EPFL. It is the result of a working cooperation between the three students :  
 - Adrien Ruault :   
   - [Linked-in](https://www.linkedin.com/in/adrien-ruault-054423128/)  
   - [EPFL](https://people.epfl.ch/adrien.ruault?lang=fr)  
