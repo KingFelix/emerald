@@ -4,6 +4,7 @@ title: Panama Papers
 subtitle: Where does the money come from ?
 use-site-title: true
 ---
+## {{default.subtitle}}  
 
 ### Introduction to the Panama Papers
 
