@@ -7,11 +7,17 @@ use-site-title: true
 
 # Dataset
 
+The dataset is available too everyone and free to use.
+
 # Processing of the Data
+The data has some miising value we had to discard.
 
 # Handle of the Data
+The data is small enough to process it on our personnal laptops.
 
 # Display information
+We used folium library to display the location of the entites 
+
 
 [//]:#(---------- END OF WHAT IS VISIBLE ----------------)
 <!-- Posts -->
