@@ -5,9 +5,9 @@ subtitle: Where does the money come from ?
 use-site-title: true
 ---
 ## {{page.subtitle}}  
+<br>   
+<br>   
   
-   
-
 ### Introduction to the Panama Papers
 
 The Panama papers were released in 2015, they constitue the biggest leak of financial information in history. It first came from the Panamanian corporate service company Mossack Fonseca. The leak revealed a substantial amount of illegal activities including fraud and tax evasion. It especially revealed illegal financial activities carried out by world's biggest wealth holders, politicians and companies.  
