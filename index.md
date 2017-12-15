@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Panama Papers
 subtitle: Where does the money come from ?
 use-site-title: true
