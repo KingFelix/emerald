@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Panama Papers
+description: "Where does the money come from ?"
+#url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Adrien Ruault, Guillaume Mollard, Hadrien Marcellin"
+  #email: "hello@jacoporabolini.com"
+  url: "https://hadrienmarcellin.github.io/ada_jekyll_page/"
 
 # Build settings
 baseurl: /ada_jekyll_page # Change this to your relative path (ex: /blog/), or leave just a /
