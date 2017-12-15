@@ -1,7 +1,26 @@
 ---
 layout: page
-title: About Emerald
+title: The Team
 ---
+
+### About
+
+This project was excuted as part of the course Applied Data Analysis ([CS-401])(http://ada.epfl.ch) delivered at EPFL. It is the result of a working cooperation between the three students :  
+- Adrien Ruault : 
+.. - [Linked-in](https://www.linkedin.com/in/adrien-ruault-054423128/)
+.. - [EPFL](https://people.epfl.ch/adrien.ruault?lang=fr)
+- Guillaume Mollard : 
+.. - [Linked-in](https://www.linkedin.com/in/guillaume-mollard-83292313b/)
+.. - [EPFL](https://people.epfl.ch/guillaume.mollard?lang=en)
+- Hadrien Marcellin : 
+.. - [Linked-in](https://www.linkedin.com/in/hadrien-marcellin-40709a108/)
+.. - [EPFL](https://people.epfl.ch/hadrien.marcellin?lang=en)
+
+
+
+
+
+[//]#(-------------- Not visible from here-------------------)
 ## About
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
