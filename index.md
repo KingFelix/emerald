@@ -5,26 +5,28 @@ subtitle: Where does the money come from ?
 use-site-title: true
 ---
 
-# Introduction to the Panama Papers
+### Introduction to the Panama Papers
 
-The Panama papers were released in 2015, they constitue the biggest leak of financial information in history. It first came from the Panamanian corporate service company Mossack Fonseca. The leak revealed a substantial amount of illegal activities including fraud and tax evasion. It especially revealed illegal financial activities carried out by world's biggest wealth holders, politicians and companies. A leak of that size is a very powerfull tool to attest the poor behaviour of hundreds of thousands entities, although it doesn't guarantee the good behaviour of those who are not listed in the database .
+The Panama papers were released in 2015, they constitue the biggest leak of financial information in history. It first came from the Panamanian corporate service company Mossack Fonseca. The leak revealed a substantial amount of illegal activities including fraud and tax evasion. It especially revealed illegal financial activities carried out by world's biggest wealth holders, politicians and companies.  
+A leak of that size is a very powerfull tool to attest the poor behaviour of hundreds of thousands entities, although it doesn't guarantee the good behaviour of those who are not listed in the database .
 
-# Outline of the project
+### Outline of the project
 
-This project aims to compile the information provided by the Panama papers to show the geographical structure of offshore activities. We intend to do so thanks to an interactive map showing connections between the different entities and officers concerned by the leak. The idea being to make the information shown on the map scalable. As a concrete example, the user could query the structure of the offshore activities concerning a particular officer or intermediary but he/she could also scale up by querying offshore connections about more general entities like countries, tax heavens, continents, etc..
+This project aims to compile the information provided by the Panama papers to show the geographical structure of offshore activities. We intend to do so thanks to an interactive map showing connections between the different entities and officers concerned by the leak. The idea being to make the information shown on the map scalable.   
 
-## Reserch questions :
+#### Reserch questions :
 
 - Which countries were the most involved in the offshore activities unveiled in the leak?
 - What are the relationships between countries and tax heavens?
 - Where does corruption come from ?
 
-# Tax Evens
+### Tax Evens
 
-From our analysis it becomes very clear they are very few countries able to attract, keep and hide large amount of money from foreign tax authorities. It is clear the main incentive to create offshore accounts/companies is the savings on taxes allowed by a lack of economic policies in those countries.   
+From our analysis it becomes very clear they are very few countries able to attract, keep and hide large amount of money from foreign tax authorities. It is clear the main incentive to create offshore accounts/companies is the savings on taxes allowed by a lack of economic policies in those countries.     
 The pattern to tax evasion becomes almost simple when spotlighted. A company or private individual may create a "Shell company" in a country of his choice, preferably where regulations are weak, for example, no need to name the owner. These shell companies, also called Offshore Entites, are usually limited liability companies and don't conduct any business, they just own financial assets of their owner. To fullfill a tax evasion, you also need a go-between with a service provider, These intermadiaries usually are law-firms, banks or a middlemen that asks an offshore service provider to create an offshore firm for a client. Finally, bearers are the entites receiving shares from an offshore company, unfortunatly bearer shares provide one of the deepest levels of secrecy. 
-
-#### Add map
+   
+   
+Add map
 
 # Handle of the Data
 The data is small enough to process it on our personnal laptops.
