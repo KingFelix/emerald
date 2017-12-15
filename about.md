@@ -22,6 +22,8 @@ This project was excuted as part of the course Applied Data Analysis ([CS-401])(
   - [Linked-in](https://www.linkedin.com/in/hadrien-marcellin-40709a108/)  
   - [EPFL](https://people.epfl.ch/hadrien.marcellin?lang=en)  
 
+---
+
 
 
 
