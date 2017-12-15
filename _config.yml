@@ -1,11 +1,11 @@
 # Site settings
 title: Panama Papers
 description: "Where does the money come from ?"
-#url: "http://www.jacoporabolini.com/emerald"
+url: "https://hadrienmarcellin.github.io/ada_jekyll_page/"
 author:
   name: "Adrien Ruault, Guillaume Mollard, Hadrien Marcellin"
   #email: "hello@jacoporabolini.com"
-  url: "https://hadrienmarcellin.github.io/ada_jekyll_page/"
+  #url: "https://hadrienmarcellin.github.io/ada_jekyll_page/"
 
 # Build settings
 baseurl: /ada_jekyll_page # Change this to your relative path (ex: /blog/), or leave just a /
