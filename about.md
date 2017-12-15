@@ -26,7 +26,7 @@ This project was excuted as part of the course Applied Data Analysis ([CS-401])(
 
 
 
-[//]#(-------------- Not visible from here-------------------)
+[//]:#(-------------- Not visible from here-------------------)
 ## About
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
