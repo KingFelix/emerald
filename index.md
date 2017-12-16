@@ -20,8 +20,8 @@ This project aims to compile the information provided by the Panama papers to sh
 Reserch questions :   
 <space><space><space><space>- Which countries were the most involved in the offshore activities unveiled in the leak?   <br>
 <space><space><space><space>- What are the relationships between countries and tax heavens?  <br>
-<space><space><space><space>- Where does corruption come from ?  <br>
-<br>   
+<space><space><space><space>- Where does corruption come from ?  <br>  
+	
 We believe the a good understanding of the tax evasion could lead to the implementation of new tax regulations to prevent such aberrance.  
   
 ### Tax Heavens
