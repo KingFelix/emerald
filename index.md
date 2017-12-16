@@ -22,7 +22,7 @@ Reserch questions :
 <space><space><space><space>- What are the relationships between countries and tax heavens?  <br>
 <space><space><space><space>- Where does corruption come from ?  <br>
 <br>   
-We believe the a good understanding of the tax evasion could lead to the implementation of new tax regulations to prevent such aberrance.
+We believe the a good understanding of the tax evasion could lead to the implementation of new tax regulations to prevent such aberrance.  
 
 
 ### Tax Heavens
