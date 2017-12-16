@@ -23,8 +23,7 @@ Reserch questions :
 <space><space><space><space>- Where does corruption come from ?  <br>
 <br>   
 We believe the a good understanding of the tax evasion could lead to the implementation of new tax regulations to prevent such aberrance.  
-
-
+  
 ### Tax Heavens
 
 From our analysis it becomes very clear they are very few countries able to attract, keep and hide large amount of money from foreign tax authorities. It is clear the main incentive to create offshore accounts/companies is the savings on taxes allowed by a lack of economic policies in those countries.     
