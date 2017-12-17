@@ -26,11 +26,9 @@ Reserch questions :
 We believe the a good understanding of the tax evasion could lead to the implementation of new tax regulations to prevent such aberrance.  
 <br> 
  
-<body>    
-    
-            <div class="folium-map" id="map_5a1de9e7ace94cb796996f2a954e4bee" ></div>
-        
-</body>
+<div class="bk-root">
+  <div class="bk-plotdiv" id="3b11fd2c-5135-4b3f-b61f-b277a8176c23"></div>
+</div>
 
 ### Tax Heavens
 
