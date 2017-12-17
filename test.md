@@ -5,6 +5,6 @@ title : plot test
 
 ## test de plot avec bokeh
 
-{% include carte_usa.html %}
+{% include test_carte.html %}
 
 
