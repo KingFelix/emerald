@@ -36,7 +36,7 @@ From our analysis it becomes very clear they are very few countries able to attr
 The pattern to tax evasion becomes almost simple when spotlighted. A company or private individual may create a "Shell company" in a country of his choice, preferably where regulations are weak, for example, no need to name the owner. These shell companies, also called Offshore Entites, are usually limited liability companies and don't conduct any business, they just own financial assets of their owner. To fullfill a tax evasion, you also need a go-between with a service provider, These intermadiaries usually are law-firms, banks or a middlemen that asks an offshore service provider to create an offshore firm for a client. Finally, bearers are the entites receiving shares from an offshore company, unfortunatly bearer shares provide one of the deepest levels of secrecy. 
    
    
-Add map
+{% include carte_monde.html %}
 
 # Handle of the Data
 The data is small enough to process it on our personnal laptops.
