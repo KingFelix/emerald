@@ -5,6 +5,6 @@ title : plot test
 
 ## test de plot avec bokeh
 
-{% test.html %}
+{% include test.html %}
 
 
