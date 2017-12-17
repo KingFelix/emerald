@@ -3,6 +3,7 @@ layout: default
 title: Panama Papers
 subtitle: Where does the money come from ?
 use-site-title: true
+published: true
 ---
 ## {{page.subtitle}}  
 <br>   
@@ -25,6 +26,12 @@ Reserch questions :
 We believe the a good understanding of the tax evasion could lead to the implementation of new tax regulations to prevent such aberrance.  
 <br> 
  
+<body>    
+    
+            <div class="folium-map" id="map_5a1de9e7ace94cb796996f2a954e4bee" ></div>
+        
+</body>
+
 ### Tax Heavens
 
 From our analysis it becomes very clear they are very few countries able to attract, keep and hide large amount of money from foreign tax authorities. It is clear the main incentive to create offshore accounts/companies is the savings on taxes allowed by a lack of economic policies in those countries.     
