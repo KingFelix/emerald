@@ -10,7 +10,7 @@ published: true
 <br>   
   
 ### Introduction to the Panama Papers
-![image-title-here](/img/Trump.png){:class="img-responsive"}
+![image-title-here](/img/Trump.jpg){:class="img-responsive"}
 
 The Panama papers were released in 2015, they constitue the biggest leak of financial information in history. It first came from the Panamanian corporate service company Mossack Fonseca. The leak revealed a substantial amount of illegal activities including fraud and tax evasion. It especially revealed illegal financial activities carried out by world's biggest wealth holders, politicians and companies.  
 A leak of that size is a very powerfull tool to attest the poor behaviour of hundreds of thousands entities, although it doesn't guarantee the good behaviour of those who are not listed in the database .
