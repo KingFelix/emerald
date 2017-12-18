@@ -28,7 +28,7 @@ We believe the a good understanding of the tax evasion could lead to the impleme
  
 
 
-### Tax Heavens
+### Tax Evasion
 
 From our analysis it becomes very clear they are few countries able to attract, keep and hide large amount of money from foreign tax authorities. It is clear the main incentive to create offshore accounts/companies is the savings on taxes allowed by a lack of economic policies in those countries.     
 The pattern to tax evasion becomes almost simple when spotlighted. A company or private individual may create a "Shell company" in the country of his choice, preferably where regulations are weak, for example, no need to name the owner. These shell companies, also called Offshore Entites, are usually limited liability companies and don't conduct any business, they just own financial assets of their owner. To fullfill a tax evasion, they also need a go-between with a service provider, these intermadiaries usually are law-firms, banks or middlemen that asks an offshore service provider to create an offshore firm for a client. Finally, bearers are the entites receiving shares from an offshore company, unfortunatly bearer shares provide one of the deepest levels of secrecy. 
@@ -45,8 +45,12 @@ Nomenclature:
 <br>   
 <br>   
   
-# Handle of the Data
-The data is small enough to process it on our personnal laptops.
+### Leading Actors
+The map above shows the worldwode distribution of the three main kinds of actors : which are Offshore entites, Intermediaries and Officers. We notice those three differs from each other on a global scale even though some countries are well represented in all three cathegories. 
+Regarding the offshore entities, we must notice the precence of the three economic global powers : USA, China and Russia. But they are, by far, not the more effcicient hosting countries. Indeed, in Europe, Switzerland is leading with more than 37 thousands hosted entites (10 times more than Russia), followed by Luxembourg and Great Bretain. In South America, Panama has a large carpital of offshore entites. In western Asia, EAU is also leading.
+The Intermediaries are once again most located in Switzerland and Grat Bretain, as they are known for the privacy of their bank services. Still, the distribution of the intermediaries is very similar to the offsore entites distribution on a blobal scale.
+Finally, we notice the southern countries are more involved in the officer distribution. Usualy officiers are settled in different jurisdiction than the company/private individual at the origin of the tax evasion.
+
 
 # Display information
 We used folium library to display the location of the entites 
