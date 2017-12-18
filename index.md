@@ -10,6 +10,7 @@ published: true
 <br>   
   
 ### Introduction to the Panama Papers
+![](../img/Trump.png){: .align-center}
 
 The Panama papers were released in 2015, they constitue the biggest leak of financial information in history. It first came from the Panamanian corporate service company Mossack Fonseca. The leak revealed a substantial amount of illegal activities including fraud and tax evasion. It especially revealed illegal financial activities carried out by world's biggest wealth holders, politicians and companies.  
 A leak of that size is a very powerfull tool to attest the poor behaviour of hundreds of thousands entities, although it doesn't guarantee the good behaviour of those who are not listed in the database .
@@ -59,7 +60,7 @@ The Intermediaries are once again most located in Switzerland and Grat Britain, 
 Finally, we notice the southern countries are more involved in the officer distribution. Usualy officiers are settled in different jurisdiction than the company/private individual at the origin of the tax evasion.
 
 ---
-![](../img/Trump.png){: .align-center}
+
 ### Full Project
 
 The full project is available on a [github repository](https://github.com/adrienruault/ada_molmaru/tree/master/project). It provides a Jupyter Notebook processing the data from the Panama Papers & Paradise Paper with a performant query tool to geographically display portions of actors involved in cash criminality. This tool was not implemented in this html page due to a lack of time and compliance between python's libraries and html.   
