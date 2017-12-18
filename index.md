@@ -35,7 +35,9 @@ The pattern to tax evasion becomes almost simple when spotlighted. A company or 
    
    
 {% include multi_carte.html %}
-  
+ 
+<br>   
+<br>   
   
 Nomenclature:  
 - Offshore Entity : A company, trust or fund created in a low-tax, offshore jurisdiction by an agent.
