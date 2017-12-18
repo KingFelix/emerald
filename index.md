@@ -59,7 +59,7 @@ The Intermediaries are once again most located in Switzerland and Grat Britain, 
 Finally, we notice the southern countries are more involved in the officer distribution. Usualy officiers are settled in different jurisdiction than the company/private individual at the origin of the tax evasion.
 
 ---
-
+![](../img/Trump.jpg){: .align-center}
 ### Full Project
 
 The full project is available on a [github repository](https://github.com/adrienruault/ada_molmaru/tree/master/project). It provides a Jupyter Notebook processing the data from the Panama Papers & Paradise Paper with a performant query tool to geographically display portions of actors involved in cash criminality. This tool was not implemented in this html page due to a lack of time and compliance between python's libraries and html.   
