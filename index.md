@@ -37,10 +37,10 @@ The pattern to tax evasion becomes almost simple when spotlighted. A company or 
 {% include multi_carte.html %}
   
   
-Nomenclature:
-&nbsp; - Offshore Entity : A company, trust or fund created in a low-tax, offshore jurisdiction by an agent.
-&nbsp; - Officer : A person or company who plays a role in an offshore entity.
-&nbsp; - Intermediary: A go-between for someone seeking an offshore corporation and an offshore service provider -- usually a law-firm or a middleman that asks an offshore service provider to create an offshore firm for a client.
+Nomenclature:  
+- Offshore Entity : A company, trust or fund created in a low-tax, offshore jurisdiction by an agent.
+ - Officer : A person or company who plays a role in an offshore entity.
+ - Intermediary: A go-between for someone seeking an offshore corporation and an offshore service provider -- usually a law-firm or a middleman that asks an offshore service provider to create an offshore firm for a client.
 
 # Handle of the Data
 The data is small enough to process it on our personnal laptops.
