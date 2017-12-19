@@ -60,6 +60,7 @@ The Intermediaries are once again most located in Switzerland and Grat Britain, 
 Finally, we notice the southern countries are more involved in the officer distribution. Usualy officiers are settled in different jurisdiction than the company/private individual at the origin of the tax evasion.
 
 {% include gmap_plot.html %}
+
 ---
 
 ### Full Project
