@@ -61,7 +61,7 @@ Regarding the offshore entities, we must notice the precence of the three econom
 The Intermediaries are once again most located in Switzerland and Grat Britain, as they are known for the privacy of their bank services. Still, the distribution of the intermediaries is very similar to the offsore entites distribution on a blobal scale.
 Finally, we notice the southern countries are more involved in the officer distribution. Usualy officiers are settled in different jurisdiction than the company/private individual at the origin of the tax evasion.
 
-{% include gmap_plot.html %}
+
 
 ---
 
