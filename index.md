@@ -13,7 +13,9 @@ published: true
 <!-- ![image-title-here](/img/Trump.jpg){:class="img-responsive"} -->
 
 The Panama papers were released in 2015, they constitue the biggest leak of financial information in history before the recent Paradise papers leak. It first came from the Panamanian corporate service company Mossack Fonseca. The leak revealed a substantial amount of illegal activities including fraud and tax evasion. It especially revealed illegal financial activities carried out by world's biggest wealth holders, politicians and companies.  
-A leak of that size is a very powerfull tool to attest the poor behaviour of hundreds of thousands entities, although it doesn't guarantee the good behaviour of those who are not listed in the database .
+A leak of that size is a very powerfull tool to attest the poor behaviour of hundreds of thousands entities. Obviously the Panama Papers are not an exhaustve list of the hidden financial activities.
+
+### Panama papers in numbers
 
 --- 
 
@@ -26,7 +28,14 @@ This project aims to compile the information provided by the Panama papers to sh
 - What are the relationships between countries and tax heavens?  <br>
 - Where does corruption come from ?  <br>  
 	
-We strongly believe in the usefulness of this kind of project in order to get a better understanding of the worldwide organization of the tax evasion phenomenon. We think that it could help society realize the  could lead to the implementation of new tax regulations to prevent such aberrance.  
+We strongly believe in the usefulness of this kind of project in order to get a better understanding of the worldwide organization of the tax evasion phenomenon. We think that it could help society realize the importance of the event. It could therefore push towards the implementation of new tax regulations to prevent such aberrance. 
+
+
+
+
+
+
+
 
 ----
   
