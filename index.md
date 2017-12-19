@@ -21,7 +21,7 @@ A leak of that size is a very powerfull tool to attest the poor behaviour of hun
 
 This project aims to compile the information provided by the Panama papers to show the geographical structure of offshore activities. We intend to do so thanks to an interactive map showing connections between the different entities and officers concerned by the leak. The idea being to make the information shown on the map scalable.   
   
-Reserch questions :   
+**Reserch questions :**   
 &nbsp; - Which countries were the most involved in the offshore activities unveiled in the leak?   <br>
 &nbsp; - What are the relationships between countries and tax heavens?  <br>
 &nbsp; - Where does corruption come from ?  <br>  
