@@ -5,11 +5,11 @@ title: Gallery
 
 ## {{page.title}}
 
-{% include Cahuzac.html %}  
 
-<br>  
-  
+### Cahuzac
+{% include Cahuzac.html %}  
+<br> 
 
 <!-- {% include ANG_VONG_VATHANA.html %} -->
-
+### FIFA
 {% include FIFA1.html %}
