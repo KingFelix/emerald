@@ -1,20 +1,25 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Panama Papers
+description: "Where does the money come from ?"
+url: "https://hadrienmarcellin.github.io/ada_jekyll_page/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Adrien Ruault, Guillaume Mollard, Hadrien Marcellin"
+  #email: "hello@jacoporabolini.com"
+  #url: "https://hadrienmarcellin.github.io/ada_jekyll_page/"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /ada_jekyll_page # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
 paginate: 8
 paginate_path: /page:num/
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
 
 # Default values
 defaults:
