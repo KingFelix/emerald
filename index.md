@@ -106,7 +106,7 @@ The datasets was downloaded from [The International Consortium of Investigative 
 ### Gallery
 
 
- {% include Cahuzac.html %}
+ {% include Cahuzac.html %}   <br>
 
 <!-- {% include Sigmundur.html %}-->
 
