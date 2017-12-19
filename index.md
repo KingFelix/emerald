@@ -17,6 +17,10 @@ A leak of that size is a very powerfull tool to attest the poor behaviour of hun
 
 ### Panama papers in numbers
 
+The Panama Papers are 11.5 million leaked documents that detail financial and attorney–client information for more than 214,488 offshore entities. Some 4.8 million leaked files were emails, 3 million were database entries, 2.2 million PDFs, 1.2 million images, 320,000 text files, and 2242 files in other formats. Journalists from 107 media organizations in 80 countries analyzed documents detailing the operations of the law firm. After more than a year of analysis, the first news stories were published on April 3, 2016, along with 150 of the documents themselves.
+The sheer quantity of leaked data greatly exceeds the WikiLeaks Cablegate leak in 2010 (1.7 GB), Offshore Leaks in 2013 (260 GB), the 2014 Lux Leaks (4 GB), and the Swiss Leaks (3.3 GB) of 2015. For comparison, the Panama Papers equals approximately 2,660 GB.
+
+
 --- 
 
 ### Outline of the project
