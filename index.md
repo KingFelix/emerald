@@ -106,11 +106,11 @@ The datasets was downloaded from [The International Consortium of Investigative 
 ### Gallery
 
 
-{% include Cahuzac.html %}
+<!-- {% include Cahuzac.html %}-->
 
-{% include Sigmundur.html %}
+<!-- {% include Sigmundur.html %}-->
 
-{% include ANG_VONG_VATHANA.html %}
+<!-- {% include ANG_VONG_VATHANA.html %}-->
 
 {% include FIFA1.html %}
 
