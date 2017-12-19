@@ -10,7 +10,7 @@ published: true
 <br>   
   
 ### Introduction to the Panama Papers
-![image-title-here](/img/Trump.jpg){:class="img-responsive"}
+<!-- ![image-title-here](/img/Trump.jpg){:class="img-responsive"} -->
 
 The Panama papers were released in 2015, they constitue the biggest leak of financial information in history. It first came from the Panamanian corporate service company Mossack Fonseca. The leak revealed a substantial amount of illegal activities including fraud and tax evasion. It especially revealed illegal financial activities carried out by world's biggest wealth holders, politicians and companies.  
 A leak of that size is a very powerfull tool to attest the poor behaviour of hundreds of thousands entities, although it doesn't guarantee the good behaviour of those who are not listed in the database .
@@ -38,6 +38,9 @@ We believe the a good understanding of the tax evasion could lead to the impleme
 From our analysis it becomes very clear they are few countries able to attract, keep and hide large amount of money from foreign tax authorities. It is clear the main incentive to create offshore accounts/companies is the savings on taxes allowed by a lack of economic policies in those countries.     
 The pattern to tax evasion becomes almost simple when spotlighted. A company or private individual may create a "Shell company" in the country of his choice, preferably where regulations are weak, for example, no need to name the owner. These shell companies, also called Offshore Entites, are usually limited liability companies and don't conduct any business, they just own financial assets of their owner. To fullfill a tax evasion, they also need a go-between with a service provider, these intermadiaries usually are law-firms, banks or middlemen that asks an offshore service provider to create an offshore firm for a client. Finally, bearers are the entites receiving shares from an offshore company, unfortunatly bearer shares provide one of the deepest levels of secrecy. 
 
+
+{% include multi_carte.html %}
+
 ---
   
   
@@ -46,7 +49,6 @@ Nomenclature:
 &nbsp; **- Officer** : A person or company who plays a role in an offshore entity.   
 &nbsp; **- Intermediary**: A go-between for someone seeking an offshore corporation and an offshore service provider -- usually a law-firm or a middleman that asks an offshore service provider to create an offshore firm for a client.  
  
-{% include multi_carte.html %}
  
 <br>   
 <br>   
