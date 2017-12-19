@@ -103,6 +103,16 @@ The full project is available on a [github repository](https://github.com/adrien
 The datasets was downloaded from [The International Consortium of Investigative Journalists](https://offshoreleaks.icij.org/pages/database) website.
 
 
+### Gallery
+
+
+{% include Cahuzac.html %}
+
+{% include Sigmundur.html %}
+
+{% include ANG_VONG_VATHANA.html %}
+
+{% include FIFA1.html %}
 
 
 [//]:#(---------- END OF WHAT IS VISIBLE ----------------)<!DOCTYPE html>
