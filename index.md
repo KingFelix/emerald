@@ -87,6 +87,8 @@ Finally, we notice the southern countries are more involved in the officer distr
 
 ### Queries
 
+{% include Sigmundur.html %} 
+
 From the raw dataset, we were able to designe a tool to query for types, names and locations 
 The provided dataset allow us to investigate for specific relationships  
 
@@ -106,7 +108,7 @@ The datasets was downloaded from [The International Consortium of Investigative 
 
 ### Gallery
 
-{% include Sigmundur.html %}  
+ 
 
 
 ---
