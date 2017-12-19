@@ -58,7 +58,8 @@ We strongly believe in the usefulness of this kind of project in order to get a 
 ### Tax Evasion
 
 From our analysis it becomes very clear they are few countries able to attract, keep and hide large amount of money from foreign tax authorities. It is clear the main incentive to create offshore accounts/companies is the savings on taxes allowed by a lack of economic policies in those countries.     
-The pattern to tax evasion becomes almost simple when spotlighted. A company or private individual may create a "Shell company" in the country of his choice, preferably where regulations are weak, for example, no need to name the owner. These shell companies, also called Offshore Entites, are usually limited liability companies and don't conduct any business, they just own financial assets of their owner. To fullfill a tax evasion, they also need a go-between with a service provider, these intermadiaries usually are law-firms, banks or middlemen that asks an offshore service provider to create an offshore firm for a client. Finally, bearers are the entites receiving shares from an offshore company, unfortunatly bearer shares provide one of the deepest levels of secrecy. 
+The pattern to tax evasion becomes almost simple when spotlighted. A company or private individual may create a "Shell company" in the country of his choice, preferably where regulations are weak, for example, no need to name the owner. These shell companies, also called Offshore Entites, are usually limited liability companies and don't conduct any business, they just own financial assets of their owner. To fullfill a tax evasion, they also need a go-between with a service provider, these intermadiaries usually are law-firms, banks or middlemen that asks an offshore service provider to create an offshore firm for a client. Finally, bearers are the entites receiving shares from an offshore company, unfortunatly bearer shares provide one of the deepest levels of secrecy.  
+
 <!-- {% include Trump.html %}  <br> -->
 
 
@@ -105,12 +106,12 @@ The datasets was downloaded from [The International Consortium of Investigative 
 
 ### Gallery
 
+{% include Sigmundur.html %}  
 
-{% include Cahuzac.html %}   <br>
 
 ---
   
-{% include Sigmundur.html %}  <br>
+{% include Cahuzac.html %}  
 
 <!-- {% include ANG_VONG_VATHANA.html %}-->
 
