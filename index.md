@@ -22,17 +22,14 @@ A leak of that size is a very powerfull tool to attest the poor behaviour of hun
 This project aims to compile the information provided by the Panama papers to show the geographical structure of offshore activities. We intend to do so thanks to an interactive map showing connections between the different entities and officers concerned by the leak. The idea being to make the information shown on the map scalable.   
   
 **Reserch questions :**   
-&nbsp; - Which countries were the most involved in the offshore activities unveiled in the leak?   <br>
-&nbsp; - What are the relationships between countries and tax heavens?  <br>
-&nbsp; - Where does corruption come from ?  <br>  
+- Which countries were the most involved in the offshore activities unveiled in the leak?   <br>
+- What are the relationships between countries and tax heavens?  <br>
+- Where does corruption come from ?  <br>  
 	
-We believe the a good understanding of the tax evasion could lead to the implementation of new tax regulations to prevent such aberrance.  
+We believe a good understanding of the tax evasion could lead to the implementation of new tax regulations to prevent such aberrance.  
 
 ----
- 
- 
-
-
+  
 ### Tax Evasion
 
 From our analysis it becomes very clear they are few countries able to attract, keep and hide large amount of money from foreign tax authorities. It is clear the main incentive to create offshore accounts/companies is the savings on taxes allowed by a lack of economic policies in those countries.     
@@ -44,9 +41,9 @@ The pattern to tax evasion becomes almost simple when spotlighted. A company or 
   
   
 Nomenclature:  
-&nbsp; **- Offshore Entity** : A company, trust or fund created in a low-tax, offshore jurisdiction by an agent.   
-&nbsp; **- Officer** : A person or company who plays a role in an offshore entity.   
-&nbsp; **- Intermediary**: A go-between for someone seeking an offshore corporation and an offshore service provider -- usually a law-firm or a middleman that asks an offshore service provider to create an offshore firm for a client.  
+**- Offshore Entity** : A company, trust or fund created in a low-tax, offshore jurisdiction by an agent.   
+**- Officer** : A person or company who plays a role in an offshore entity.   
+**- Intermediary**: A go-between for someone seeking an offshore corporation and an offshore service provider -- usually a law-firm or a middleman that asks an offshore service provider to create an offshore firm for a client.  
  
  
 <br>   
@@ -66,17 +63,18 @@ Finally, we notice the southern countries are more involved in the officer distr
 
 ---
 
+### Macro queries
+
+---
+
+### Web App
+
+--
+
 ### Full Project
 
 The full project is available on a [github repository](https://github.com/adrienruault/ada_molmaru/tree/master/project). It provides a Jupyter Notebook processing the data from the Panama Papers & Paradise Paper with a performant query tool to geographically display portions of actors involved in cash criminality. This tool was not implemented in this html page due to a lack of time and compliance between python's libraries and html.   
 The datasets was downloaded from [The International Consortium of Investigative Journalists](https://offshoreleaks.icij.org/pages/database) website.
-
-
-
-
-
-
-
 
 
 
