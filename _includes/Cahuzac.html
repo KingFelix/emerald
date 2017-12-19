@@ -1,0 +1,46 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>my plot</title>
+        
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.5.min.css" type="text/css" />
+        
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.5.min.js"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+        <style>
+          html {
+            width: 100%;
+            height: 100%;
+          }
+          body {
+            width: 90%;
+            height: 100%;
+            margin: auto;
+          }
+        </style>
+    </head>
+    <body>
+        
+        <div class="bk-root">
+            <div class="bk-plotdiv" id="07a6e951-2bbd-439f-b9c4-b202c53d204d"></div>
+        </div>
+        
+        <script type="text/javascript">
+            (function() {
+          var fn = function() {
+            Bokeh.safely(function() {
+              var docs_json = {"cd1278f7-2ff4-4fbf-bb3c-ae962e589e8c":{"roots":{"references":[{"attributes":{"plot":{"id":"50106e54-b6c4-431c-89c4-ad737003b54d","type":"GMapPlot"}},"id":"14b8b3f1-10d2-4ed7-bb1b-2ae55069b986","type":"PanTool"},{"attributes":{"data_source":{"id":"d04e9f19-c7f9-4019-994e-3cb774014334","type":"ColumnDataSource"},"glyph":{"id":"5a424ace-8535-4d8b-ae75-e4600118ad8e","type":"Circle"},"hover_glyph":null,"muted_glyph":null},"id":"4f948557-c89d-40ec-bdf1-e54c990d120c","type":"GlyphRenderer"},{"attributes":{"callback":null,"plot":{"id":"50106e54-b6c4-431c-89c4-ad737003b54d","type":"GMapPlot"},"point_policy":"follow_mouse","tooltips":[["Name","@Name"],["Type","@Type"],["Country","@Country"]]},"id":"91acc905-19df-4c48-9e1f-daae35e10491","type":"HoverTool"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"plot":null,"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"84fe2293-01d2-443a-92ac-6b7e4df97548","type":"BoxAnnotation"},{"attributes":{"callback":null},"id":"5581f79e-4c17-4483-a720-a1528ff4e66b","type":"Range1d"},{"attributes":{"plot":{"id":"50106e54-b6c4-431c-89c4-ad737003b54d","type":"GMapPlot"}},"id":"5c6e9ec7-ee0b-414c-8deb-4f7deb28fd7a","type":"WheelZoomTool"},{"attributes":{"callback":null,"overlay":{"id":"84fe2293-01d2-443a-92ac-6b7e4df97548","type":"BoxAnnotation"},"plot":{"id":"50106e54-b6c4-431c-89c4-ad737003b54d","type":"GMapPlot"}},"id":"a1077e0d-1314-4ce8-8d05-1b6d1fae8461","type":"BoxSelectTool"},{"attributes":{"api_key":"AIzaSyBWiP1vrOwawG0gqvWPlMz8CAbom7adjJ4","map_options":{"id":"4f6bbd8f-a2fa-466d-bc59-9cae4b1925d7","type":"GMapOptions"},"plot_height":400,"plot_width":666,"renderers":[{"id":"0c6e20ea-3bd2-49e5-87ad-ac5eac678116","type":"GlyphRenderer"},{"id":"eb6a9772-8a98-4ab2-9445-f840b86f8473","type":"GlyphRenderer"},{"id":"44db751d-3613-492c-b23d-665c1c3c713e","type":"GlyphRenderer"},{"id":"6bb0cf4a-d0f7-4ab8-abc4-7cacdea4e6eb","type":"GlyphRenderer"},{"id":"4f948557-c89d-40ec-bdf1-e54c990d120c","type":"GlyphRenderer"},{"id":"84fe2293-01d2-443a-92ac-6b7e4df97548","type":"BoxAnnotation"}],"title":{"id":"992e8419-4e2c-403d-a968-2defb5905af8","type":"Title"},"tool_events":{"id":"cfad81c5-75ac-4691-b45c-7c9399e32217","type":"ToolEvents"},"toolbar":{"id":"f033ff62-e9e9-45a1-934c-203ac22e8434","type":"Toolbar"},"x_range":{"id":"27b70b7a-dd1c-431c-ac01-613a6655244b","type":"Range1d"},"y_range":{"id":"5581f79e-4c17-4483-a720-a1528ff4e66b","type":"Range1d"}},"id":"50106e54-b6c4-431c-89c4-ad737003b54d","type":"GMapPlot"},{"attributes":{"active_drag":"auto","active_scroll":"auto","active_tap":"auto","tools":[{"id":"14b8b3f1-10d2-4ed7-bb1b-2ae55069b986","type":"PanTool"},{"id":"5c6e9ec7-ee0b-414c-8deb-4f7deb28fd7a","type":"WheelZoomTool"},{"id":"a1077e0d-1314-4ce8-8d05-1b6d1fae8461","type":"BoxSelectTool"},{"id":"91acc905-19df-4c48-9e1f-daae35e10491","type":"HoverTool"}]},"id":"f033ff62-e9e9-45a1-934c-203ac22e8434","type":"Toolbar"},{"attributes":{"callback":null},"id":"27b70b7a-dd1c-431c-ac01-613a6655244b","type":"Range1d"},{"attributes":{"zoom":1},"id":"4f6bbd8f-a2fa-466d-bc59-9cae4b1925d7","type":"GMapOptions"},{"attributes":{"callback":null,"column_names":["lat","lon","Type","Name","Country"],"data":{"Country":["France"],"Name":["85 avenue de Breteuil; 75007 Paris; France"],"Type":["Address"],"lat":[49.76676519464052],"lon":[1.8976465990195468]}},"id":"3401c128-14da-4f06-a797-653627619675","type":"ColumnDataSource"},{"attributes":{"callback":null,"column_names":["x","y","Type","Name","Country"],"data":{"Country":["--","--"],"Name":["Relationship","Relationship"],"Type":["officer_of","officer_of"],"x":[2.333333,54.36666700000001],"y":[48.8666666667,24.4666666667]}},"id":"47b99685-4180-4ce7-b7fd-3d0bd87452e8","type":"ColumnDataSource"},{"attributes":{},"id":"cfad81c5-75ac-4691-b45c-7c9399e32217","type":"ToolEvents"},{"attributes":{"callback":null,"column_names":["x","y","Type","Name","Country"],"data":{"Country":["--","--"],"Name":["Relationship","Relationship"],"Type":["registered_address","registered_address"],"x":[2.333333,1.8976465990195468],"y":[48.8666666667,49.76676519464052]}},"id":"2ad28839-298d-4396-bc2e-b37dbb4efd7d","type":"ColumnDataSource"},{"attributes":{"data_source":{"id":"f8eb57ed-4dc1-4147-9b44-1d80f7829e4f","type":"ColumnDataSource"},"glyph":{"id":"f104012c-b004-41a6-ae88-1cdd92004787","type":"Circle"},"hover_glyph":null,"muted_glyph":null},"id":"0c6e20ea-3bd2-49e5-87ad-ac5eac678116","type":"GlyphRenderer"},{"attributes":{"plot":null,"text":"Connections from Mr. Jerome Andre CAHUZAC"},"id":"992e8419-4e2c-403d-a968-2defb5905af8","type":"Title"},{"attributes":{"fill_alpha":{"value":0.6},"fill_color":{"value":"#11ff00"},"line_color":{"value":"#3388ff"},"size":{"units":"screen","value":10},"x":{"field":"lon"},"y":{"field":"lat"}},"id":"f104012c-b004-41a6-ae88-1cdd92004787","type":"Circle"},{"attributes":{"callback":null,"column_names":["lat","lon","Type","Name","Country"],"data":{"Country":["France"],"Name":["Mr. Jerome Andre CAHUZAC"],"Type":["Officer"],"lat":[48.8666666667],"lon":[2.333333]}},"id":"d04e9f19-c7f9-4019-994e-3cb774014334","type":"ColumnDataSource"},{"attributes":{"callback":null,"column_names":["lat","lon","Type","Name","Country"],"data":{"Country":["United Arab Emirates"],"Name":["CERMAN GROUP LIMITED"],"Type":["Entity"],"lat":[24.4666666667],"lon":[54.36666700000001]}},"id":"f8eb57ed-4dc1-4147-9b44-1d80f7829e4f","type":"ColumnDataSource"},{"attributes":{"data_source":{"id":"47b99685-4180-4ce7-b7fd-3d0bd87452e8","type":"ColumnDataSource"},"glyph":{"id":"1a3ac9ea-2539-4de4-8d47-29a8616ca849","type":"Line"},"hover_glyph":null,"muted_glyph":null},"id":"eb6a9772-8a98-4ab2-9445-f840b86f8473","type":"GlyphRenderer"},{"attributes":{"data_source":{"id":"3401c128-14da-4f06-a797-653627619675","type":"ColumnDataSource"},"glyph":{"id":"fa665fed-4b57-4b12-9a77-a44ad5cdc020","type":"Circle"},"hover_glyph":null,"muted_glyph":null},"id":"44db751d-3613-492c-b23d-665c1c3c713e","type":"GlyphRenderer"},{"attributes":{"line_alpha":{"value":0.6},"line_color":{"value":"#f46d43"},"line_width":{"value":4},"x":{"field":"x"},"y":{"field":"y"}},"id":"1a3ac9ea-2539-4de4-8d47-29a8616ca849","type":"Line"},{"attributes":{"line_alpha":{"value":0.6},"line_color":{"value":"#f46d43"},"line_width":{"value":4},"x":{"field":"x"},"y":{"field":"y"}},"id":"8bd40f54-8088-4173-8066-25f2db414c09","type":"Line"},{"attributes":{"fill_alpha":{"value":0.6},"fill_color":{"value":"#adfdff"},"line_color":{"value":"#3388ff"},"size":{"units":"screen","value":10},"x":{"field":"lon"},"y":{"field":"lat"}},"id":"fa665fed-4b57-4b12-9a77-a44ad5cdc020","type":"Circle"},{"attributes":{"fill_alpha":{"value":0.6},"fill_color":{"value":"#0002c4"},"line_color":{"value":"#ff0000"},"size":{"units":"screen","value":12},"x":{"field":"lon"},"y":{"field":"lat"}},"id":"5a424ace-8535-4d8b-ae75-e4600118ad8e","type":"Circle"},{"attributes":{"data_source":{"id":"2ad28839-298d-4396-bc2e-b37dbb4efd7d","type":"ColumnDataSource"},"glyph":{"id":"8bd40f54-8088-4173-8066-25f2db414c09","type":"Line"},"hover_glyph":null,"muted_glyph":null},"id":"6bb0cf4a-d0f7-4ab8-abc4-7cacdea4e6eb","type":"GlyphRenderer"}],"root_ids":["50106e54-b6c4-431c-89c4-ad737003b54d"]},"title":"Bokeh Application","version":"0.12.5"}};
+              var render_items = [{"docid":"cd1278f7-2ff4-4fbf-bb3c-ae962e589e8c","elementid":"07a6e951-2bbd-439f-b9c4-b202c53d204d","modelid":"50106e54-b6c4-431c-89c4-ad737003b54d"}];
+              
+              Bokeh.embed.embed_items(docs_json, render_items);
+            });
+          };
+          if (document.readyState != "loading") fn();
+          else document.addEventListener("DOMContentLoaded", fn);
+        })();
+        
+        </script>
+    </body>
+</html>

@@ -1,0 +1,46 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>my plot</title>
+        
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.5.min.css" type="text/css" />
+        
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.5.min.js"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+        <style>
+          html {
+            width: 100%;
+            height: 100%;
+          }
+          body {
+            width: 90%;
+            height: 100%;
+            margin: auto;
+          }
+        </style>
+    </head>
+    <body>
+        
+        <div class="bk-root">
+            <div class="bk-plotdiv" id="5b259660-7a38-4328-95e6-52bd8853b6b3"></div>
+        </div>
+        
+        <script type="text/javascript">
+            (function() {
+          var fn = function() {
+            Bokeh.safely(function() {
+              var docs_json = {"1a3726c4-5758-4a56-a961-210a75254553":{"roots":{"references":[{"attributes":{"line_alpha":{"value":0.6},"line_color":{"value":"#f46d43"},"line_width":{"value":4},"x":{"field":"x"},"y":{"field":"y"}},"id":"6e926f6a-939a-4d94-8f5c-99a00f95249f","type":"Line"},{"attributes":{"data_source":{"id":"bdf26c9d-73ac-47f8-8766-59190660e5ae","type":"ColumnDataSource"},"glyph":{"id":"6e926f6a-939a-4d94-8f5c-99a00f95249f","type":"Line"},"hover_glyph":null,"muted_glyph":null},"id":"8d290960-f6be-4726-b5f6-53eac86d79a7","type":"GlyphRenderer"},{"attributes":{"callback":null,"column_names":["lat","lon","Type","Name","Country"],"data":{"Country":["Iceland"],"Name":["Sigmundur David Gunnlaugsson"],"Type":["Officer"],"lat":[64.15],"lon":[-21.95]}},"id":"21da035b-01c9-4932-b1d8-a656d106adc9","type":"ColumnDataSource"},{"attributes":{"data_source":{"id":"21da035b-01c9-4932-b1d8-a656d106adc9","type":"ColumnDataSource"},"glyph":{"id":"48f1b89a-a9f8-4edd-aa6c-3d5a1a7f33c8","type":"Circle"},"hover_glyph":null,"muted_glyph":null},"id":"c27c8bc0-f971-4c62-80fd-f4d595de0d5a","type":"GlyphRenderer"},{"attributes":{"callback":null,"overlay":{"id":"2ec18a24-96d4-463f-89a8-a186f9024d6c","type":"BoxAnnotation"},"plot":{"id":"2b0c5edd-123a-4a4a-a17a-12133adf4742","type":"GMapPlot"}},"id":"152675fb-a037-4978-8727-92f8e75bc1e5","type":"BoxSelectTool"},{"attributes":{"fill_alpha":{"value":0.6},"fill_color":{"value":"#11ff00"},"line_color":{"value":"#3388ff"},"size":{"units":"screen","value":10},"x":{"field":"lon"},"y":{"field":"lat"}},"id":"7fb84f18-414e-4ebb-b2c0-7df110e89aa6","type":"Circle"},{"attributes":{"data_source":{"id":"6bc80b29-5003-460e-8e74-48491a615b8a","type":"ColumnDataSource"},"glyph":{"id":"79977e31-79ac-476e-9a08-da6895c1e8fc","type":"Line"},"hover_glyph":null,"muted_glyph":null},"id":"93726093-ce03-4f3c-b17e-11024396e13c","type":"GlyphRenderer"},{"attributes":{"api_key":"AIzaSyBWiP1vrOwawG0gqvWPlMz8CAbom7adjJ4","map_options":{"id":"0a8215e3-224a-4fa1-9b65-28a1339bfa44","type":"GMapOptions"},"plot_height":400,"plot_width":666,"renderers":[{"id":"ce55b428-df8c-43a3-9c4a-8bbdb7a14bce","type":"GlyphRenderer"},{"id":"8d290960-f6be-4726-b5f6-53eac86d79a7","type":"GlyphRenderer"},{"id":"592c170c-c074-43a8-b4aa-af2ad35bdb53","type":"GlyphRenderer"},{"id":"93726093-ce03-4f3c-b17e-11024396e13c","type":"GlyphRenderer"},{"id":"c27c8bc0-f971-4c62-80fd-f4d595de0d5a","type":"GlyphRenderer"},{"id":"2ec18a24-96d4-463f-89a8-a186f9024d6c","type":"BoxAnnotation"}],"title":{"id":"5d7f516c-9359-4442-ba35-c2bd931f3cd9","type":"Title"},"tool_events":{"id":"f81215af-fc54-4145-8a65-d7c5c3eec6bc","type":"ToolEvents"},"toolbar":{"id":"6e64e9ae-f210-437e-9147-c8929a8575d7","type":"Toolbar"},"x_range":{"id":"02711b36-bb6b-454e-9109-ebb055a86cb9","type":"Range1d"},"y_range":{"id":"faf02b7a-e473-40ac-b71a-bef4b7b9ab06","type":"Range1d"}},"id":"2b0c5edd-123a-4a4a-a17a-12133adf4742","type":"GMapPlot"},{"attributes":{"callback":null,"column_names":["x","y","Type","Name","Country"],"data":{"Country":["--","--"],"Name":["Relationship","Relationship"],"Type":["registered_address","registered_address"],"x":[-21.95,-22.939874786657484],"y":[64.15,64.0080566777203]}},"id":"6bc80b29-5003-460e-8e74-48491a615b8a","type":"ColumnDataSource"},{"attributes":{"callback":null},"id":"faf02b7a-e473-40ac-b71a-bef4b7b9ab06","type":"Range1d"},{"attributes":{},"id":"f81215af-fc54-4145-8a65-d7c5c3eec6bc","type":"ToolEvents"},{"attributes":{"callback":null,"plot":{"id":"2b0c5edd-123a-4a4a-a17a-12133adf4742","type":"GMapPlot"},"point_policy":"follow_mouse","tooltips":[["Name","@Name"],["Type","@Type"],["Country","@Country"]]},"id":"0d676dcf-578b-4e40-963a-95bf9db3dce6","type":"HoverTool"},{"attributes":{"callback":null},"id":"02711b36-bb6b-454e-9109-ebb055a86cb9","type":"Range1d"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"plot":null,"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"2ec18a24-96d4-463f-89a8-a186f9024d6c","type":"BoxAnnotation"},{"attributes":{"active_drag":"auto","active_scroll":"auto","active_tap":"auto","tools":[{"id":"ccaaf118-36a4-4626-aed0-a8aff0ad7f0d","type":"PanTool"},{"id":"0c4c0bac-cedc-4319-a47c-9901050b0fbc","type":"WheelZoomTool"},{"id":"152675fb-a037-4978-8727-92f8e75bc1e5","type":"BoxSelectTool"},{"id":"0d676dcf-578b-4e40-963a-95bf9db3dce6","type":"HoverTool"}]},"id":"6e64e9ae-f210-437e-9147-c8929a8575d7","type":"Toolbar"},{"attributes":{"callback":null,"column_names":["lat","lon","Type","Name","Country"],"data":{"Country":["Iceland"],"Name":["Lokastigur 24; 101 Reykjavik; Iceland"],"Type":["Address"],"lat":[64.0080566777203],"lon":[-22.939874786657484]}},"id":"53f84df8-8a80-406c-a18f-de055beb25ba","type":"ColumnDataSource"},{"attributes":{"fill_alpha":{"value":0.6},"fill_color":{"value":"#0002c4"},"line_color":{"value":"#ff0000"},"size":{"units":"screen","value":12},"x":{"field":"lon"},"y":{"field":"lat"}},"id":"48f1b89a-a9f8-4edd-aa6c-3d5a1a7f33c8","type":"Circle"},{"attributes":{"plot":{"id":"2b0c5edd-123a-4a4a-a17a-12133adf4742","type":"GMapPlot"}},"id":"ccaaf118-36a4-4626-aed0-a8aff0ad7f0d","type":"PanTool"},{"attributes":{"callback":null,"column_names":["x","y","Type","Name","Country"],"data":{"Country":["--","--"],"Name":["Relationship","Relationship"],"Type":["officer_of","officer_of"],"x":[-21.95,6.116667],"y":[64.15,49.6]}},"id":"bdf26c9d-73ac-47f8-8766-59190660e5ae","type":"ColumnDataSource"},{"attributes":{"plot":{"id":"2b0c5edd-123a-4a4a-a17a-12133adf4742","type":"GMapPlot"}},"id":"0c4c0bac-cedc-4319-a47c-9901050b0fbc","type":"WheelZoomTool"},{"attributes":{"data_source":{"id":"53f84df8-8a80-406c-a18f-de055beb25ba","type":"ColumnDataSource"},"glyph":{"id":"159939a5-cb10-49bf-ad85-645673843950","type":"Circle"},"hover_glyph":null,"muted_glyph":null},"id":"592c170c-c074-43a8-b4aa-af2ad35bdb53","type":"GlyphRenderer"},{"attributes":{"plot":null,"text":"Connections from Sigmundur David Gunnlaugsson"},"id":"5d7f516c-9359-4442-ba35-c2bd931f3cd9","type":"Title"},{"attributes":{"fill_alpha":{"value":0.6},"fill_color":{"value":"#adfdff"},"line_color":{"value":"#3388ff"},"size":{"units":"screen","value":10},"x":{"field":"lon"},"y":{"field":"lat"}},"id":"159939a5-cb10-49bf-ad85-645673843950","type":"Circle"},{"attributes":{"line_alpha":{"value":0.6},"line_color":{"value":"#f46d43"},"line_width":{"value":4},"x":{"field":"x"},"y":{"field":"y"}},"id":"79977e31-79ac-476e-9a08-da6895c1e8fc","type":"Line"},{"attributes":{"data_source":{"id":"73c9a3f2-04a0-4282-8893-4113ca691493","type":"ColumnDataSource"},"glyph":{"id":"7fb84f18-414e-4ebb-b2c0-7df110e89aa6","type":"Circle"},"hover_glyph":null,"muted_glyph":null},"id":"ce55b428-df8c-43a3-9c4a-8bbdb7a14bce","type":"GlyphRenderer"},{"attributes":{"zoom":1},"id":"0a8215e3-224a-4fa1-9b65-28a1339bfa44","type":"GMapOptions"},{"attributes":{"callback":null,"column_names":["lat","lon","Type","Name","Country"],"data":{"Country":["Luxembourg"],"Name":["WINTRIS INC."],"Type":["Entity"],"lat":[49.6],"lon":[6.116667]}},"id":"73c9a3f2-04a0-4282-8893-4113ca691493","type":"ColumnDataSource"}],"root_ids":["2b0c5edd-123a-4a4a-a17a-12133adf4742"]},"title":"Bokeh Application","version":"0.12.5"}};
+              var render_items = [{"docid":"1a3726c4-5758-4a56-a961-210a75254553","elementid":"5b259660-7a38-4328-95e6-52bd8853b6b3","modelid":"2b0c5edd-123a-4a4a-a17a-12133adf4742"}];
+              
+              Bokeh.embed.embed_items(docs_json, render_items);
+            });
+          };
+          if (document.readyState != "loading") fn();
+          else document.addEventListener("DOMContentLoaded", fn);
+        })();
+        
+        </script>
+    </body>
+</html>
