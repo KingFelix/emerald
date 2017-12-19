@@ -39,7 +39,6 @@ From our analysis it becomes very clear they are few countries able to attract, 
 The pattern to tax evasion becomes almost simple when spotlighted. A company or private individual may create a "Shell company" in the country of his choice, preferably where regulations are weak, for example, no need to name the owner. These shell companies, also called Offshore Entites, are usually limited liability companies and don't conduct any business, they just own financial assets of their owner. To fullfill a tax evasion, they also need a go-between with a service provider, these intermadiaries usually are law-firms, banks or middlemen that asks an offshore service provider to create an offshore firm for a client. Finally, bearers are the entites receiving shares from an offshore company, unfortunatly bearer shares provide one of the deepest levels of secrecy. 
 
 
-{% include Trump.html %}
 
 ---
   
@@ -61,6 +60,8 @@ Regarding the offshore entities, we must notice the precence of the three econom
 The Intermediaries are once again most located in Switzerland and Grat Britain, as they are known for the privacy of their bank services. Still, the distribution of the intermediaries is very similar to the offsore entites distribution on a blobal scale.
 Finally, we notice the southern countries are more involved in the officer distribution. Usualy officiers are settled in different jurisdiction than the company/private individual at the origin of the tax evasion.
 
+{% include Trump.html %}  
+  
 {% include multi_carte.html %}
 
 
