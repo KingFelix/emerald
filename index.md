@@ -68,8 +68,6 @@ The map above shows the worldwode distribution of the three main kinds of actors
 Regarding the offshore entities, we must notice the precence of the three economic global powers : USA, China and Russia. But they are, by far, not the more effcicient hosting countries. Indeed, in Europe, Switzerland is leading with more than 37 thousands hosted entites (10 times more than Russia), followed by Luxembourg and Great Britain. In South America, Panama has a large carpital of offshore entites. In western Asia, EAU is also leading.
 The Intermediaries are once again most located in Switzerland and Grat Britain, as they are known for the privacy of their bank services. Still, the distribution of the intermediaries is very similar to the offsore entites distribution on a blobal scale.
 Finally, we notice the southern countries are more involved in the officer distribution. Usualy officiers are settled in different jurisdiction than the company/private individual at the origin of the tax evasion.
-
-  
 {% include multi_carte.html %}	 <br>
 
 ### Queries
