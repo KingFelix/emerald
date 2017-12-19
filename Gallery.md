@@ -1,6 +1,6 @@
 ---
-layout = page
-title: Panama Papers
+layout: page
+title: About
 ---
 
 ## {{page.title}}
