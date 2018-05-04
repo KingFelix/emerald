@@ -5,14 +5,6 @@
 
 <body>
 	<div id="wrap">
-	  	
-	  	<!-- Navigation -->
-	  	{% include menu.html %}
-    
-    <!-- Icon menu -->
-	  <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
-	  	<div id="menu"></div>
-	  </a>
 
       <!-- Header -->
       {% if site.custom_header == true %}
@@ -60,9 +52,6 @@
         {% endif %}
 
 	  </div>
-	    
-	    <!-- Footer -->
-	    {% include footer.html %}
 
 	    <!-- Script -->
       {% include script.html %}
