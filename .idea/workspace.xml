@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba279ec3-4362-4e16-ab89-3355cfc75316" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-05-02-MyFirstBlog.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/header-custom.html" afterPath="$PROJECT_DIR$/_includes/header-custom.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/menu.html" afterPath="$PROJECT_DIR$/_includes/menu.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-10-hello-world.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-15-example-1.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-15-example-2.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-15-example-3.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-15-example-4.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-15-example-5.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-15-example-6.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-15-example-7.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-15-example-8.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-01-code-syntax.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-19-typography.md" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="link.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/link.html">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state relative-caret-position="190">
+              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -100,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-05-02-MyFirstBlog.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-05-02-MyFirstBlog.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-02-MyFirstBlog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -155,11 +140,11 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/header-custom.html" />
         <option value="$PROJECT_DIR$/_includes/nav-footer-custom.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/menu.html" />
         <option value="$PROJECT_DIR$/_posts/MyFirstBlog.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2018-05-02-MyFirstBlog.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -539,12 +524,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525434096439</updated>
-      <workItem from="1525434098199" duration="2461000" />
+      <workItem from="1525434098199" duration="2520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2461000" />
+    <option name="totallyTimeSpent" value="2520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -613,14 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -748,6 +725,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
