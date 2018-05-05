@@ -18,7 +18,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
 
 /*- Base color -*/
 
-$main-color: #008A3C;
+$main-color: #0099FF;
 $background-color: #FDFDFD;
 $text-color: #222222;
 
@@ -32,6 +32,7 @@ html {
 	}
 	line-height: 1.5;
 	color: $text-color;
+	font-family: "Times New Roman", Times, serif;
 }
 
 

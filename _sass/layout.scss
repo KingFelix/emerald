@@ -248,8 +248,11 @@ code {
 /* Footer */
 
 footer {
-  background-color: $main-color;
+  background-color: #ffaaaa;
   color: $background-color;
   text-align: center;
-  padding: 0.6667em 0;
+  //padding: 0.6667em 0;
+  bottom: 0px;
+  position: fixed;
+  width: 100%;
 }
