@@ -1,0 +1,4 @@
+---
+title: Bonding Period
+---
+Hi! As the google guidelines suggest, 23rd April - 13th May is the official bonding period where the students get involved with the community to know more about the organization. The students are also supposed to contact their mentors and discuss further plans for the project. I had a skype call with my mentors to briefly discuss the timeline. We also created the official github repository for the project. As per the discussion with my mentor, I am supposed to learn and explore the existing codebase of the HTML Form Entry Module (which is going to be extended as a part of this project) and come up with a detailed weekly timeline of how things would work. I am also supposed to discuss the challenges technical or otherwise which I may face before the coding period starts. Thanks for reading!
