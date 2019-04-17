@@ -10,3 +10,10 @@ I take it as my mission to explore the web in search of new and interesting stuf
 
 ### Who am I?
 A consultant with a large and innovative company that provides IT related services to large clients across the world. My main areas of interest are data analysis/data science and business intelligence and I mainly work with Python, R and Qlik and related tools/libraries.   
+
+### What is the meaning of shift+return?
+It a keyboard shortcut you would use in Jupyter Notebook or Jupyter Lab, for running the code in the current cell and then jumping on to the next one. In this particular context, it's meant to convey the message that as soon as you finish learning or building something, you should go on and find another thing to learn or create. By never stopping the learning process you will grow both professionally and from a personal point of view.
+
+That all being said,  my advice to you is:
+
+Stay curious!
