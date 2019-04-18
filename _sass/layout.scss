@@ -111,10 +111,17 @@
   }
 }
 
+#wrap {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+} 
+
 #container {
 	margin:0 auto;
 	max-width: 730px;
 	padding: 0 1.5rem;
+	flex: 1;
 }
 
 #header {
@@ -252,7 +259,4 @@ footer {
   color: $background-color;
   text-align: center;
   padding: 0.6667em 0;
-  position: absolute;
-  bottom: 0;
-  min-width: 100%; 
 }
