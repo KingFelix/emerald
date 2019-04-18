@@ -1,11 +1,11 @@
 # Site settings
 title: "BLOG - {shift+return}"
 description: "About optimizing life using technology"
-url: "https://calinbule.github.io/blog/"
+url: "http://shift-return.github.io/blog/"
 author:
-  name: "Calin Bule"
-  email: "calin.bule@gmail.com"
-  url: "https://github.com/calinbule"
+  name: "Shift + Return"
+  email: "shiftplusreturn@gmail.com"
+  url: "https://github.com/shift-return"
 
 # Build settings
 baseurl: /blog/ # Change this to your relative path (ex: /blog/), or leave just a /
