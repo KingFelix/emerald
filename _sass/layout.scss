@@ -9,7 +9,7 @@
     padding: 0.33334em 0;
     font-size: 1.5em;
     font-weight: 400;
-    @media (min-width: 940px) {
+    @media (min-width: 1081px) {
       font-size: 1em;
     }
     &:hover {
@@ -106,7 +106,7 @@
 .fixed {
   position: fixed;
   width: 100%;
-  @media (min-width: 940px) {
+  @media (min-width: 1081px) {
     position: static;
   }
 }
@@ -162,7 +162,7 @@
 
 #post-page {
   margin-bottom: 1.5em;
-  @media (min-width: 940px) {
+  @media (min-width: 1081px) {
       margin-bottom: 1.3334em;
     }
 }
@@ -182,7 +182,7 @@
   line-height: 1.5em; /* 24px/16px */
   margin-bottom: 1.5em; /* 24px/16px */
   font-weight: 200;
-  @media (min-width: 940px) {
+  @media (min-width: 1081px) {
     display: block;
     color: lighten($text-color, 25%);
     line-height: 1.3334em; /* 24px/18px */
@@ -216,7 +216,7 @@ code {
 .content ul, .content ol {
   line-height: 1.5em; /* 24px/16px */
   padding-left: 1.5em;
-  @media (min-width: 940px) {
+  @media (min-width: 1081px) {
     line-height: 1.33334em; /* 24px/18px */
   }
 }
@@ -269,7 +269,7 @@ input[type=text] {
     width: 22rem;
     border-radius: 1px;
     box-shadow: 0 1px 0px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
-    @media (min-width: 940px) {
+    @media (min-width: 1081px) {
 	width: 40rem;
   	}
 }
@@ -277,7 +277,7 @@ input[type=text] {
 ul#results-container {
     width: 22rem;
     list-style-type: disc;
-    @media (min-width: 940px) {
+    @media (min-width: 1081px) {
 	width: 40rem;
   	}	
 }	
