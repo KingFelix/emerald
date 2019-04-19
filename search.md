@@ -5,6 +5,7 @@ title: Search
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="Search posts...">
+<br>
 <ul id="results-container"></ul>
 </div>
 
@@ -16,7 +17,13 @@ title: Search
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: '<div><a href="{url}"><h3>{title}</h3></a><span>{{date: "%-d %B %Y" }}</span></div>',
+  searchResultTemplate: '
+  <div>
+    <span>{{date: "%-d %B %Y" }}</span>
+    <a href="{url}">
+      <h3>{title}</h3>
+    </a>
+  </div>',
   json: '/blog/search.json'
 })
 </script>
