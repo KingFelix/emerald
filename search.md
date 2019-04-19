@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Search 
 ---
 <!-- Html Elements for Search -->
