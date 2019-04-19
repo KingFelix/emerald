@@ -273,8 +273,11 @@ input[type=text] {
     width: 100%;
     border-radius: 1px;
     box-shadow: 0 1px 0px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    @media (min-width: 940px) {
+	width: 100rem;
+  	}
 }
 
-#results-container {
+ul#results-container {
 	list-style-type: disc;	
 }
