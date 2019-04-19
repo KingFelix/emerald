@@ -266,12 +266,11 @@ div#search-container #results-container {
 }     
 
 input[type=text] {
-    width: 15rem;
     outline: none;
     padding: 15px 25px;
     margin: 5px 1px 3px 0px;
     border: none;
-    width: 100%;
+    width: 15rem;
     border-radius: 1px;
     box-shadow: 0 1px 0px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
     @media (min-width: 940px) {
