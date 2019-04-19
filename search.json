@@ -2,13 +2,12 @@
 layout: nil
 ---
 [
-  {% for post in site.pages %}
+  {% for post in site.posts %}
     {
     
       "title"    : "{{ post.title | strip_html | escape }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "url"      : "{{ site.url }}{{ post.url }}",
       "category" : "{{post.categories | join: ', '}}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
       "date"     : "{{ post.date }}"
       
     } {% unless forloop.last %},{% endunless %}
