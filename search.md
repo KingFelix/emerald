@@ -17,7 +17,7 @@ title: Search
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: '<li><a href="{url}"><h3>{title}</h3></a></li>',
+  searchResultTemplate: '<a href="{url}"><li><h3>{title}</h3></li></a>',
   json: '/blog/search.json'
 })
 </script>
