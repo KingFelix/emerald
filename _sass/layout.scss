@@ -275,9 +275,9 @@ input[type=text] {
 }
 
 ul#results-container {
-    width: 20rem;
+    width: 15rem;
     list-style-type: disc;
     @media (min-width: 1081px) {
-	width: 15rem;
+	width: 40rem;
   	}	
 }	
