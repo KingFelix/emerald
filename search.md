@@ -19,7 +19,7 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   searchResultTemplate: '
   <div>
-    <span>{{date: "%-d %B %Y" }}</span>
+    <span>{date}</span>
     <a href="{url}">
       <h3>{title}</h3>
     </a>
