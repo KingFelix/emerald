@@ -2,7 +2,7 @@
 layout: nil
 ---
 [
-  {% for post in site.posts %}
+  {% for post in site.pages %}
     {
     
       "title"    : "{{ post.title | strip_html | escape }}",
