@@ -1,6 +1,6 @@
 # Site settings
 title: "BLOG - {shift+return}"
-description: "About optimizing life using technology"
+description: "About optimizing work using technology"
 url: "http://shift-return.github.io/blog/"
 author:
   name: "Shift + Return"
@@ -8,7 +8,7 @@ author:
   url: "https://github.com/shift-return"
 
 # Build settings
-baseurl: /blog/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
