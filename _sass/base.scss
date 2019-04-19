@@ -27,7 +27,7 @@ $text-color: #24252a;
 html {
 	background-color: $background-color;
 	font-size: 16px;
-	@media (min-width: 940px) {
+	@media (min-width: 1081px) {
 		font-size: 18px;
 	}
 	line-height: 1.5;
