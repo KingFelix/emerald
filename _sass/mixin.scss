@@ -17,7 +17,7 @@
       -ms-transform: translateX($x);
           transform: translateX($x);
   width: 100%;
-  @media (min-width: 940px) {
+  @media (min-width: 1081px) {
     width: 25%;
   }
 }
