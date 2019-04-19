@@ -13,9 +13,11 @@ layout: nil
   {% endfor %}*/
   
    {
-      "title"    : "Typograhy example"
+      "title"    : "Typograhy example",
+      "url"      : "/typography",
     },
     {
-      "title"    : "Code Syntax"
+      "title"    : "Code Syntax",
+      "url"      : "/code-syntax"
     }
 ]
