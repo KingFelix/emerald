@@ -32,11 +32,11 @@
 /* Toggle class to open menu */
 
 #nav.menu-open {
-  @include open(-15rem);
+  @include open(-14rem);
 }
 
 #nav-left.menu-open-left {
-  @include open(15rem);
+  @include open(14rem);
 }
 
 /* Separator after menu */
@@ -266,7 +266,7 @@ input[type=text] {
     padding: 15px 25px;
     margin: 5px 1px 3px 0px;
     border: none;
-    width: 15rem;
+    width: 16rem;
     border-radius: 1px;
     box-shadow: 0 1px 0px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
     @media (min-width: 1081px) {
@@ -275,7 +275,7 @@ input[type=text] {
 }
 
 ul#results-container {
-    width: 15rem;
+    width: 16rem;
     list-style-type: disc;
     @media (min-width: 1081px) {
 	width: 40rem;
@@ -283,7 +283,7 @@ ul#results-container {
 }
 
 div#disqus_thread {
-    width: 15rem;
+    width: 16rem;
     @media (min-width: 1081px) {
 	width: 40rem;
   	}	
