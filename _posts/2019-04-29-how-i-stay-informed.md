@@ -13,7 +13,7 @@ I also configured my LinkedIn feed in the same way and every now and then someth
 Another, more proactive, approach would be to actively search for resources on dedicated websites. I usually do this when I need to solve a problem and, at least for me, this is the way that works best. I always check the documentation of whatever tool/programming language/library I’m using but sometimes it’s not enough. Below a list of my usual go-to places for resources:
 -    [stackoverflow.com](< https://stackoverflow.com/>) best Q&A site on the web
 -    [github.com](< https://github.com/>) usually here you can find software but there are also very helpful discussions about how to fix or overcome bugs and other known problems in some of the tools we use 
--    [medium.com](<https://medium.com/>) and sister sites [hackernoon.com](< https://hackernoon.com/>), [towardsdatascience.com](< https://towardsdatascience.com/>),[medium.freecodecamp.com](<https://medium.freecodecamp.org/>) very good articles about very much everything you can think of, probably also one that solves your problem
+-    [medium.com](<https://medium.com/>) and sister sites [hackernoon.com](< https://hackernoon.com/>), [towardsdatascience.com](< https://towardsdatascience.com/>), [medium.freecodecamp.com](<https://medium.freecodecamp.org/>) very good articles about very much everything you can think of, probably also one that solves your problem
 -    [dev.to](< https://dev.to/>) similar to medium.com
 -    [realpython.com](< https://realpython.com/>) very good guides and tutorials on all things Python
 -    [css-tricks.com](< https://css-tricks.com/>) resources on web development with particular focus on CSS
