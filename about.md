@@ -12,7 +12,8 @@ I am a vocal advocate of continuous learning and self development thus I spend a
 I blog about the things I research, technology, coding, software development, dev community and everything else I find interesting and could benefit others.
 
 ### How do you contact me?
-Drop me an email at shiftplusreturn@gmaio.com
+Drop me an email at shiftplusreturn@gmail.com
+
 As soon as new channels of communication will be available you'll find them here.
 
 ### What is the meaning of shift+return?
