@@ -7,7 +7,7 @@ title: About
 My name is Gabriel and I'm a consultant, programmer, and project manager with a multinational consultancy firm. I started to learn coding in 2015 and have been working on building up my skills ever since. My main areas of interest are data analysis/data science, web development and business intelligence and I mainly work with Python, R, Qlik, Excel VBA and related tools and libraries.   
 
 ### Continuous learning
-I am a vocal advocate of continuous learning and self development thus I spend a good part of my time researching new tools and studying new methods to improve my work. I strongly believe that every self respecting professional must dedicate time to improve in order to remain competitive.      
+I am a vocal advocate of continuous learning and self-development thus I spend a good part of my time researching new tools and studying new methods to improve my work. I strongly believe that every self-respecting professional must dedicate time to improve in order to remain competitive.      
 
 I blog about the things I research, technology, coding, software development, dev community and everything else I find interesting and could benefit others.
 
