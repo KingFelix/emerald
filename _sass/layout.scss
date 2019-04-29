@@ -266,7 +266,7 @@ input[type=text] {
     padding: 15px 25px;
     margin: 5px 1px 3px 0px;
     border: none;
-    width: 17rem;
+    width: 18rem;
     border-radius: 1px;
     box-shadow: 0 1px 0px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
     @media (min-width: 1081px) {
@@ -275,7 +275,7 @@ input[type=text] {
 }
 
 ul#results-container {
-    width: 17rem;
+    width: 18rem;
     list-style-type: disc;
     @media (min-width: 1081px) {
 	width: 40rem;
@@ -283,14 +283,14 @@ ul#results-container {
 }
 
 div#disqus_thread {
-    width: 17rem;
+    width: 18rem;
     @media (min-width: 1081px) {
 	width: 40rem;
   	}	
 }
 
 code {
-    width: 17rem;
+    width: 18rem;
     @media (min-width: 1081px) {
 	width: 40rem;
   	}	
