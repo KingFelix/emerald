@@ -280,4 +280,11 @@ ul#results-container {
     @media (min-width: 1081px) {
 	width: 40rem;
   	}	
-}	
+}
+
+div#disqus_thread {
+    width: 15rem;
+    @media (min-width: 1081px) {
+	width: 40rem;
+  	}	
+}
