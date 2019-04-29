@@ -12,7 +12,7 @@ I am a vocal advocate of continuous learning and self-development thus I spend a
 I blog about the things I research, technology, coding, software development, dev community and everything else I find interesting and could benefit others.
 
 ### How do you contact me?
-Drop me an email at [shiftplusreturn@gmail.com](mailto:shiftplusreturn@gmail.com). As soon as new channels of communication will be available you'll find them here.
+Drop me an email at [shiftplusreturn@gmail.com](mailto:shiftplusreturn@gmail.com). As soon as new channels of communication will be available  will update the page and you will find them here.
 
 ### What is the meaning of shift+return?
 It's a keyboard shortcut you would use in Jupyter Notebook or Jupyter Lab, for running the code in the current cell and then jumping on to the next one. If the next cell does not exist, a new one is created. Here, we're in the realm of studying and learning thus, in this particular context, the blog name is meant to convey the message that one should always go forward with their personal and professional development through learning. One should always be curious and, as soon as the current project comes to an end, they should go on to finding a new one. In other words, keep on moving, never stop!  
