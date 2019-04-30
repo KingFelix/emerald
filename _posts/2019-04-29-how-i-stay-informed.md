@@ -4,15 +4,15 @@ title: How I stay informed?
 category: General
 tags: [general, community]
 ---
-Mainly by checking the Google News feed on my smartphone every morning. It’s a good aggregator and I configured it to show me what’s been published recently, in my areas of interest. The AI behind it will also keep track of your google searches and update your feed accordingly. It’s also available via web browser at [news.google.com]( <https://news.google.com/>) but I personally prefer the app that is integrated with my phone’s OS.
+Mainly by checking the Google News feed on my smartphone every morning. It’s a good aggregator and I configured it to show me what’s been published recently, in my areas of interest. The AI behind it will keep track of your google searches and update your feed accordingly. It’s also available via web browser at [news.google.com]( <https://news.google.com/>) but I personally prefer the app that is integrated with my phone’s OS.
 
-After having a quick look at the feed contents I go on reading the articles that interest me and bookmark the longer ones, that I do not have time to read in the morning or those that need further study. 
+After having a quick look at the feed I go on reading the articles that interest me and bookmark the longer ones, that I do not have time for in the morning or those that need further study. 
 
 I also configured my LinkedIn feed in the same way and every now and then something interesting like [this](< https://www.linkedin.com/feed/update/urn:li:ugcPost:6523598198383091712>) pops up. 
 
-Another, more proactive, approach would be to actively search for resources on dedicated websites. I usually do this when I need to solve a problem and, at least for me, this is the way that works best. I always check the documentation of whatever tool/programming language/library I’m using but sometimes it’s not enough. Below a list of my usual go-to places for resources:
--    [stackoverflow.com](< https://stackoverflow.com/>), in my humble opinion, the best Q&A site on the web 
--    [github.com](< https://github.com/>) where you can usually find software projects, but it also contains very helpful discussions about how to fix or overcome bugs and other known problems for some of the tools that developers use 
+Another, more proactive, approach is to actively search for resources on dedicated websites. I usually do this when I need to solve a problem and, at least for me, this is the way that works best. I always check the documentation of whatever tool/programming language/library I’m using but sometimes it’s not enough. Below a list of my usual go-to places for resources:
+-    [stackoverflow.com](< https://stackoverflow.com/>), in my humble opinion the best Q&A site on the web 
+-    [github.com](< https://github.com/>) where you can usually find software projects, but it also contains very helpful discussions about how to fix or overcome bugs and other known problems for some of the tools used in the software development process 
 -    [medium.com](<https://medium.com/>) and its sister sites [hackernoon.com](< https://hackernoon.com/>), [towardsdatascience.com](< https://towardsdatascience.com/>), [medium.freecodecamp.com](<https://medium.freecodecamp.org/>) have very good articles about very much everything you can think of, probably also one that solves your problem
 -    [dev.to](< https://dev.to/>), similar to medium.com
 -    [realpython.com](< https://realpython.com/>), very good guides and tutorials on all things Python
