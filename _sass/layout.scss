@@ -293,6 +293,7 @@ div#disqus_thread {
 
 figure.highlight {
     width: 19rem;
+	overflow-x: auto;
     @media (min-width: 1081px) {
 	width: 40rem;
   	}	
