@@ -119,9 +119,12 @@
 
 #container {
 	margin:0 auto;
-	max-width: 350px;
+	max-width: 340px;
 	padding: 0 1.5rem;
 	flex: 1;
+	@media (min-width: 1081px) {
+             max-width: 740px;
+    }
 }
 
 #header {
