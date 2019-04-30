@@ -284,6 +284,8 @@ ul#results-container {
 
 div#disqus_thread {
     width: 19rem;
+    margin-left: auto;
+    margin-right:auto;
     @media (min-width: 1081px) {
 	width: 40rem;
   	}	
@@ -291,7 +293,6 @@ div#disqus_thread {
 
 figure.highlight {
     width: 19rem;
-    margin-right: 10px;
     @media (min-width: 1081px) {
 	width: 40rem;
   	}	
