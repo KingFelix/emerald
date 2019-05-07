@@ -39,15 +39,3 @@ disqus:
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: https-shift-return-github-io-blog
     
-# Navigation (2nd level links supported)
-nav:
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
-  Search:          
-    - '/blog/search/'
-  About:
-    - 'blog/about'
-  Github: 
-    - 'https://github.com/shift-return'
