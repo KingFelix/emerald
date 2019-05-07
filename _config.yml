@@ -1,7 +1,7 @@
 # Site settings
 title: "BLOG - {shift+return}"
 description: "About optimizing work using technology"
-url: "http://shift-return.github.io/blog/"
+url: "http://shift-return.github.io/"
 author:
   name: "Shift + Return"
   email: "shiftplusreturn@gmail.com"
