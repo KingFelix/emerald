@@ -1,11 +1,11 @@
 # Site settings
 title: Jane's coding story
 description: "A sincere effort to pursue a dream"
-url: "https://github.com/EunkuBae/emerald/"
+url: "http://www.jacoporabolini.com/emerald"
 author:
   name:
   email:
-  url: 
+  url: "http://www.jacoporabolini.com"
 
 # Build settings
 baseurl: https://github.com/EunkuBae/emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
