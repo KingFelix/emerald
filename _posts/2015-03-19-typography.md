@@ -2,23 +2,7 @@
 title: Thread
 ---
 ![Test](/emerald/img/img-test.png "Test")
-program : 일종의 softwareprocess : 현재 cpu가 실행중인 프로그램
-  
-  	- thread : 한 프로세스 안에서 동시에(?) 여러 작업 (게임 가동시 작동하는 여러 작업)
-  	- multi로 작업을 하기 위해 사용
-  	
-  	// multiprocess와 multi thread의 차이
-  		: 멀티 프로세스는 게임/음악/이클립스의 작업을 쪼개서 runnable에 대기 한 후, 하나씩 run한는 것임
-  	- 예) 채팅(나의 입력은 이벤트, 상대방의 입력은 thread)
-  	cf)processor는 cpu를 말하는 것임  	
- * 자바의 쓰레드 처리 절차
- 1. Thread 클래스를 상속 (Runnable 인터페이스 구현 implements)
- 	- run() 오버라이딩
- 2. start() 호출 -> run() 호출됨 //start는 대기 상태로 보내 줌
- // 처리 과정을 컨트롤 할 수 없음. 결과값은 매번 달라짐
- 
- //when multi tasks are sharing same resources, it needs to synchronize tasks(methods or functions
- until a task is finished and takes a turn.  
+Lorem ipsum dolor sit amet, [consectetur adipisicing](http://www.example.com) elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet debitis ipsa recusandae possimus minima sunt itaque, nulla ducimus officia, consequatur ipsum laudantium magnam hic fuga vero incidunt nostrum. Commodi, perspiciatis ut nostrum fugit nulla cumque voluptate harum nemo accusamus? 
 
 ## This is a h2
 
