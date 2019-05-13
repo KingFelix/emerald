@@ -1,14 +1,14 @@
 # Site settings
 title: Jane's coding story
 description: "A sincere effort to pursue a dream"
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://eunkubae.github.io/emerald/"
 author:
   name:
   email:
   url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: https://github.com/EunkuBae/emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
