@@ -1,0 +1,59 @@
+---
+title: Contact
+author: Harshit Bansal
+layout: page
+description: Harshit Bansal, if you need help or business with me
+category: contact
+---
+<style>
+  /*contact */
+
+  .contact-label{
+    border-radius:0;
+    height:50px;
+    margin:0;
+    margin-top:25px;
+    padding-top:2%;
+    padding-left:4%;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight:bold;
+    font-size:14px;
+  }
+
+  .contact-input{
+    border-radius:0;
+    height:50px;
+    padding-left:4%;
+    font-family: 'Encode Sans Expanded', sans-serif;
+    font-size:18px;
+  }
+</style>
+
+<div class="container" style='margin-bottom: 2.2%;'>
+  <form action="https://formsubmit.co/harshitbansalcse@gmail.com" method="POST" enctype="multipart/form-data" id="myForm">
+    <h2 style="color:#791E94;font-family: 'Prompt', sans-serif;text-align:center;padding:0%;">Contact</h2>
+    <div class="form-group">
+      <label for="name" class="form-control contact-label">TELL US YOUR NAME</label>
+      <input type="text" class="form-control contact-input" name="name" placeholder="Full Name" required>
+    </div>
+
+    <div class="form-group">
+      <label for="email1" class="form-control contact-label">ENTER YOUR EMAIL</label>
+      <input type="email" class="form-control contact-input" name="email" placeholder="Eg. example@email.com" required>
+    </div>
+
+    <div class="form-group">
+      <label for="mobile" class="form-control contact-label">ENTER MOBILE NUMBER</label>
+      <input type="text" name="tel" class="form-control contact-input" placeholder="Eg. +1800 00000000" pattern="[1-9]{1}[0-9]{9}" title="Please insert correct Contact No." required placeholder="Contact No.">
+    </div>
+
+    <div class="form-group">
+      <label for="message" class="form-control contact-label">MESSAGE.</label>
+      <textarea name="message" class="form-control contact-input" placeholder="Write us a message" required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-lg contact-input" data-toggle="modal" data-target="#exampleModal" style="width:40%;margin-left:28%;font-family: 'Prompt', sans-serif;">Send</button>
+    
+  </form>
+</div>
+
