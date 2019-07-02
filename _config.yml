@@ -32,3 +32,7 @@ version: "1.1.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+#sitemap
+gems:
+  - jekyll-sitemap
