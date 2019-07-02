@@ -21,7 +21,7 @@ And this is a HTML example, with a linenumber:
 {% highlight html linenos %}
 
 <html>
-  <a href="example.com">Example</a>
+  <a href="example.com#disqus_thread">Example</a>
 </html>
 
 {% endhighlight %}
