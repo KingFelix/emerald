@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# Lactose Intolerance 
+## Lactose Intolerance 
 ### Step-by-step guide to check your DNA for lactose intolerance
 Note: Make sure to have your sequenced/genotyped genome download onto your computer. 
 
