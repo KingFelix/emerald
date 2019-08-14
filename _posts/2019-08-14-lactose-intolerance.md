@@ -20,7 +20,7 @@ Now you should be able to see the files your folder contains in the buttom-right
 
 **Step 3:** Write a function to screen for lactose intolerance.
 
-- 
+- @param [insert name of ]
 - @import "stringr"
 ![top_code]({{site.baseurl}}/_posts/lactose_rcode.PNG)
 
