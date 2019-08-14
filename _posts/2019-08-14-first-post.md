@@ -1,11 +1,7 @@
 ---
 published: true
 ---
-# Our first blog post
-
-## Lactose Intolerance
-
-### Step-by-step guide to check your DNA for lactose intolerance
+# Our first blog post ## Lactose Intolerance ### Step-by-step guide to check your DNA for lactose intolerance
 Note: Make sure to have your sequenced/genotyped genome download onto your computer. 
 
 **Step 1:** Download R and RStudio
