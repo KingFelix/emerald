@@ -2,7 +2,7 @@
 published: false
 ---
 # Our first blog post!
-![]({{site.baseurl}}/https://cdn.pixabay.com/photo/2018/12/22/13/18/dna-3889611_960_720.jpg)
+![]({{site.baseurl}}/_posts/0Y2A8863.jpg)![0Y2A8863.jpg]({{site.baseurl}}/_posts/0Y2A8863.jpg)
 
 ## A New Post
 
