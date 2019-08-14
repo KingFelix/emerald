@@ -4,11 +4,10 @@ published: true
 ---
 ![SNP](/emerald/img/snp.png)
 
-## my.DNA
+## Welcome to my.DNA
 
-# Welcome to my.DNA
+###  We enable you to analyze your own DNA!
 
-##  We enable you to analyze your own DNA!
 
 [Insert project intro text here]
 
