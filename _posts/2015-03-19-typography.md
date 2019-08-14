@@ -2,7 +2,7 @@
 title: Introduction to my.DNA
 published: true
 ---
-![DNA](/emerald/img/snp.PNG)
+![DNA](/emerald/img/snp.png)
 
 ## My.DNA
 
