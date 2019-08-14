@@ -22,4 +22,4 @@ Now you should be able to see the files your folder contains in the buttom-right
 
 - @param [insert name of ]
 - @import "stringr"
-![top_code]({{site.baseurl}}/_img/lactose_rcode.PNG)
+![top_code]({{site.baseurl}}/emerald/img/lactose_rcode.PNG)
