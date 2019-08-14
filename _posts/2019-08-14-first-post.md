@@ -1,9 +1,7 @@
 ---
 published: true
 ---
-# Our first blog post!
-
-neradkjsxhfk,aesdyxkjflalesdxhfleahsdxlif
+# Our first blog post
 
 ## A New Post
 
