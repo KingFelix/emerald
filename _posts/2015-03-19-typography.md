@@ -13,7 +13,7 @@ I was wondering, [consectetur adipisicing](http://www.example.com) elit. Id, ali
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sed quo atque *perspiciatis*. Eius cum possimus, maxime unde, asperiores neque blanditiis molestiae ipsa odit. **Laboriosam**, error! Ipsa officia magnam at ratione commodi porro nulla consequuntur eum quia nisi officiis cupiditate reprehenderit provident facilis rem, nobis quidem fugiat, et! Tempore maiores reprehenderit laboriosam rerum? 
 
-> "This is the best site I ever used!Thank you!" - Julia (Founder of My.Life)
+> "This is a blockquote"
 
 ### Unordered list
 - list 1
