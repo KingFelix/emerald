@@ -1,27 +1,20 @@
 ---
-title: Typograhy example
+title: Introduction to my.DNA
 published: true
 ---
-![Test](/emerald/img/img-test.png "Test")
-I was wondering, [consectetur adipisicing](http://www.example.com) 
 ## My.DNA
+![DNA](/emerald/img/dna.PNG)
 
-# Welcome to my.DNA - we enable you to analyze your own DNA!
+# Welcome to my.DNA
 
-### h3, h4, h5 and h6 have the same style.
+##  We enable you to analyze your own DNA!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sed quo atque *perspiciatis*. Eius cum possimus, maxime unde, asperiores neque blanditiis molestiae ipsa odit. **Laboriosam**, error!
+[Insert project intro text here]
 
-> "This is a blockquote"
 
-### Unordered list
-- list 1
-- list 2
-- list 3
-- list 4
+> "Wow, this blog allowed me to see that I am likely to get twins, which has been lifelong dream." - Julia H., 25
 
-### Ordered list
-1. one
-2. two
-3. three
-4. four
+> "Best invention since the light bulb!" - Thomas Edison, 172
+
+
+![Test](/emerald/img/img-test.png "Test")
