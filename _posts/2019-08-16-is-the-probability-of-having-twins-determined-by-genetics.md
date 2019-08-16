@@ -1,10 +1,10 @@
 ---
 published: true
 ---
-# If you are interested in this question, here is a step_by_step guide to
+## If you are interested in this question, here is a step_by_step guide to
 
 
-## Step 1:
+### Step 1:
 https://ghr.nlm.nih.gov/primer/traits/twins
 https://genetics.thetech.org/ask-a-geneticist/twin-genetics
 only the mother’s genetics matter,
