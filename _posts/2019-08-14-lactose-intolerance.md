@@ -20,12 +20,13 @@ Note: Make sure to have your sequenced/genotyped genome saved in a folder onto y
 - Go to "File" and then click on "Open Project..."
 - Select the folder containing your DNA and click "Open" in botton right corner. 
 Now you should be able to see the files your folder contains in the buttom-right window of your screen:
-![files_in_rstudio](/emerald/img/lactose_import.PNG)
+![files_in_rstudio](/emerald/img/IngaDNAonRstudio.PNG)
 
 **Step 3:** Write a function to screen for lactose intolerance.
 
 - @param [insert name of ]
 - @import "stringr"
-![top_code](/emerald/img/lactose_function.PNG)
+![import_code](/emerald/img/lactose_import.PNG)
+![function_code](/emerald/img/lactose_function.PNG)
 
 **Step 4:** Write the code to screen for the "G-allele"
