@@ -5,8 +5,9 @@ published: true
 
 
 ###### Step 1:
-Sources: (https://ghr.nlm.nih.gov/primer/traits/twins)
-		 (https://genetics.thetech.org/ask-a-geneticist/twin-genetics)
+Sources: [https://genetics.thetech.org/ask-a-geneticist/twin-genetics](https://genetics.thetech.org/ask-a-geneticist/twin-genetics)
+		 [https://ghr.nlm.nih.gov/primer/traits/twins](https://ghr.nlm.nih.gov/primer/traits/twins)
+		 
 only the mother’s genetics matter,
 A father’s genes can’t make a woman release two eggs.
 However, only women ovulate. So, the mother’s genes control this and the fathers don’t.
