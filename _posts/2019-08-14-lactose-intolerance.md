@@ -34,7 +34,7 @@ Type the follwoign code:
 - /dontrun { [insert all libraries you don't want to run]
 }
 - Your code should look something like this: 
-![import_code](myDNA/img/lactose_import.PNG)
+![import_code](/myDNA/img/lactose_import.PNG)
 
 **Step 4:** Write the code to screen for your allele in the specific positions in your genome. 
 - call a function linked to your folder called e.g. "lactoseIntolerance" 
@@ -42,4 +42,4 @@ Type the follwoign code:
 
 
 - Check your code using the follwing image: 
-![function_code](myDNA/img/lactose_function.PNG)
+![function_code](/myDNA/img/lactose_function.PNG)
