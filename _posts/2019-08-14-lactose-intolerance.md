@@ -28,9 +28,9 @@ Now you should be able to see the files your folder contains in the buttom-right
 
 **Step 3:** Write a function to screen for lactose intolerance.
 
-- @param [insert name of ]
+- @param [insert name of your ]
 - @import "stringr"
-![import_code](/myDNA/img/lactose_import.PNG)
-![function_code](/myDNA/img/lactose_function.PNG)
+![import_code](myDNA/img/lactose_import.PNG)
+![function_code](myDNA/img/lactose_function.PNG)
 
 **Step 4:** Write the code to screen for the "G-allele"
