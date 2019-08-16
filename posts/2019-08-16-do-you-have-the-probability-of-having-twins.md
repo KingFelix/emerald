@@ -4,7 +4,7 @@ published: true
 ### Here is a step_by_step guide to find it out
 
 
-#### Step 1:
+###### Step 1:
 Sources: (https://ghr.nlm.nih.gov/primer/traits/twins)
 		 (https://genetics.thetech.org/ask-a-geneticist/twin-genetics)
 only the mother’s genetics matter,
