@@ -38,10 +38,8 @@ Type the follwoign code:
 
 **Step 4:** Write the code to screen for your allele in the specific positions in your genome. 
 - call a function linked to your folder called e.g. "lactoseIntolerance" 
-- screen your genome for the SNP "rs4988235" by typing "SCREEN <- (myDNAScreenSNPS(myDNA = myDNA, snpsData ![snp.png]({{site.baseurl}}/_posts/snp.png)
-
+- screen your genome for the SNP "rs4988235" by typing "SCREEN <- (myDNAScreenSNPS(myDNA = myDNA, snpsData
 
 
 - Check your code using the follwing image: 
 ![function_code](myDNA/img/lactose_function.PNG)
-
