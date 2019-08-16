@@ -33,8 +33,8 @@ Type the follwoign code:
 ![import_code](/myDNA/img/lactose_import.PNG)
 
 **Step 4:** Write the code to screen for your allele in the specific positions in your genome. 
-- Call a function with the name e.g. "lactoseIntolerance" and link it to your folder
-- Screen your genotyped genome for the SNP "rs4988235"
-- If the SNP is not present in your genotype data, try with an 
+- Call a function with the name e.g. "lactoseIntolerance" and link it to your folder.
+- Screen your genotyped genome for the SNP "rs4988235".
+- If the SNP is not present in your genotype data, try with an imputed dataset.
 - Check your code using the follwing image: 
 ![function_code](/myDNA/img/lactose_function.PNG)
