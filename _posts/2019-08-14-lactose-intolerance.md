@@ -3,6 +3,7 @@ published: true
 ---
 ### Step-by-step guide to check whether risk allele for lactose intolerance can be found in your genome
 Info: Lactose Intolerance is influenced by a genetic marker near the LCT gene.
+
 Alleles:
 
 GG - likely to be lactose intolerant
