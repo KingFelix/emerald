@@ -13,7 +13,7 @@ Alleles:
 - GG - likely to be lactose intolerant
 - CG/CC - likely to not be lactose intolerant
 
-Note: Make sure to have your sequenced/genotyped genome saved in a folder onto your computer. 
+Note: Make sure to have your genotyped genome saved in a folder onto your computer. 
 
 
 **Step 1:** Download R and RStudio
@@ -27,10 +27,21 @@ Now you should be able to see the files your folder contains in the buttom-right
 ![files_in_rstudio](/myDNA/img/IngaDNAonRstudio.PNG)
 
 **Step 3:** Write a function to screen for lactose intolerance.
-
-- @param [insert name of your ]
+Type the follwoign code: 
+- @param [insert name of your genotype file]
 - @import "stringr"
+- @examples
+- /dontrun { [insert all libraries you don't want to run]
+}
+- Your code should look something like this: 
 ![import_code](myDNA/img/lactose_import.PNG)
+
+**Step 4:** Write the code to screen for your allele in the specific positions in your genome. 
+- call a function linked to your folder called e.g. "lactoseIntolerance" 
+- screen your genome for the SNP "rs4988235" by typing "SCREEN <- (myDNAScreenSNPS(myDNA = myDNA, snpsData ![snp.png]({{site.baseurl}}/_posts/snp.png)
+
+
+
+- Check your code using the follwing image: 
 ![function_code](myDNA/img/lactose_function.PNG)
 
-**Step 4:** Write the code to screen for the "G-allele"
