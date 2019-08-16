@@ -5,7 +5,7 @@ published: true
 Info: Lactose Intolerance is primarily linked to 2 SNPs found in the introns of the MCM6 gene, which is associated with the LCT gene located thousands of base pairs away. 
 - In 77% of Europeans: rs4988235 and rs182549, for which the (T) and (A) alleles, respectively, form a haplotype predicting lactase persistence (thus avoiding lactose intolerance).
 - A different SNP, rs145946881, known as "G/C-14010", appears to be associated with lactase persistence in sub-Saharan African populations. 
-- Two other nearby SNPs, rs41380347 "T/G(-13915)" and rs41525747 "C/G(-13907)", are also associated to a lesser degree.
+- SNPs rs41380347 "T/G(-13915)" and rs41525747 "C/G(-13907)", are also associated to a lesser degree.
 
 Source: [Lactose intolerance SNPedia](https://www.snpedia.com/index.php/Lactose_intolerance)
 
