@@ -1,9 +1,10 @@
 ---
 published: true
 ---
-### Here is a step_by_step guide to find it out
+### Here is a step-by-step guide to find it out
 
 ## Info: Make sure to have your genotyped genome saved in a folder onto your computer.
+
 
 The likelihood of conceiving twins is a complex trait. It is probably affected by multiple genetic and environmental factors, depending on the type of twins. The two types of twins are classified as monozygotic and dizygotic.
 
