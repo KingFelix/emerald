@@ -9,10 +9,6 @@ Info: Lactose Intolerance is primarily linked to 2 SNPs found in the introns of 
 
 Source: [Lactose intolerance SNPedia](https://www.snpedia.com/index.php/Lactose_intolerance)
 
-Alleles: 
-- GG - likely to be lactose intolerant
-- CG/CC - likely to not be lactose intolerant
-
 Note: Make sure to have your genotyped genome saved in a folder onto your computer. 
 
 
@@ -37,9 +33,8 @@ Type the follwoign code:
 ![import_code](/myDNA/img/lactose_import.PNG)
 
 **Step 4:** Write the code to screen for your allele in the specific positions in your genome. 
-- call a function linked to your folder called e.g. "lactoseIntolerance" 
-- screen your genome for the SNP "rs4988235" by typing "SCREEN <- (myDNAScreenSNPS(myDNA = myDNA, snpsData = cbind("rs4988235", "G")))
-
-
+- Call a function with the name e.g. "lactoseIntolerance" and link it to your folder
+- Screen your genotyped genome for the SNP "rs4988235"
+- If the SNP is not present in your genotype data, try with an 
 - Check your code using the follwing image: 
 ![function_code](/myDNA/img/lactose_function.PNG)
