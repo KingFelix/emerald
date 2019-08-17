@@ -2,6 +2,8 @@
 title: Introduction to my.DNA
 published: true
 link: 'https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism'
+link2: 'https://en.wikipedia.org/wiki/RStudio'
+link3: 'https://en.wikipedia.org/wiki/Allele'
 ---
 ![SNP](/myDNA/img/snp.png)
 
