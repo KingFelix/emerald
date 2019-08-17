@@ -26,8 +26,6 @@ Now you should be able to see the files your folder contains in the buttom-right
 Type the following code: 
 - install.packages("BiocManager")
 - BiocManager::install("IngaPa/myDNAS")
-
-}
 - Your code should look something like this: 
 ![import_code](/myDNA/img/lactose_import.PNG)
 
