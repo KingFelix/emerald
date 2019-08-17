@@ -1,7 +1,8 @@
 ---
 published: true
 ---
-## We would like to everyone involved in the creation of this blogging site. 
+### We would like to everyone involved in the creation of this blogging site. 
+
 
 Special thanks to Dunja and Vedran for their support in our project.
 
