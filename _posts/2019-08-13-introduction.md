@@ -1,6 +1,7 @@
 ---
 title: Introduction to my.DNA
 published: true
+link: 'https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism'
 ---
 ![SNP](/myDNA/img/snp.png)
 
