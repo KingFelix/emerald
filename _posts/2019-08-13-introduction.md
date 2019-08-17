@@ -10,8 +10,7 @@ published: true
 
 **How is this possible?**
 
-We made a program that compares your raw data after genotyping with a database with traits and disease.
- After genotyping not every company gives you the option to look at your health. Our group decided that we wanted to make a open source program so people can educate themselves about their DNA. Ater you do the genotyping you get raw data consists of SNPs and alleles that are associate with the SNPs.
+ Our group decided that we wanted to make a open source program so people can educate themselves about their DNA. Ater you do the genotyping you get raw data consists of SNPs and alleles that are associate with the SNPs.
  
  **Single-nucleotide polymorphism (SNP)**
  
@@ -26,6 +25,9 @@ An allele (/əˈliːl/) is a variant form of a given gene. Sometimes, different 
 **RStudio**
 
 RStudio is an integrated development environment (IDE) for R, a programming language for statistical computing and graphics. RStudio is available in two formats: RStudio Desktop, where the program is run locally as a regular desktop application; and RStudio Server, which allows accessing RStudio using a web browser while it is running on a remote Linux server. RStudio Desktop and RStudio Server are both available in free and fee-based (commercial) editions. OS support depends on the format/edition of the IDE. Prepackaged distributions of RStudio Desktop are available for Windows, macOS, and Linux.
+
+We made a program that compares your raw data after genotyping with a database with traits and disease.
+ After genotyping not every company gives you the option to look at your health.
 
 
 
