@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# dghtrsg
-## dfd
 
-![import_code](/myDNA/img/Balint_apple.jpg)
+
+
+![import_code](/myDNA/img/DNA-Structure.jpg)
