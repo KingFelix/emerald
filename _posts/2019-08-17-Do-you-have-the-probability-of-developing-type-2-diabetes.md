@@ -34,6 +34,7 @@ Genome-wide association study(GWAS) is an observational study of a genome-wide s
 **1 step:**  Download R and RStudio
 
 R: [https://cloud.r-project.org]()
+
 Rstudio: [https://www.rstudio.com/products/rstudio/download/]()
 
 
