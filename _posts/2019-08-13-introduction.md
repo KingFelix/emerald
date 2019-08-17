@@ -19,11 +19,13 @@ We made a program that compares your raw data after genotyping with a database w
  
  For example, at a specific base position in the human genome, the C nucleotide may appear in most individuals, but in a minority of individuals, the position is occupied by an A. This means that there is a SNP at this specific position, and the two possible nucleotide variations – C or A – are said to be alleles for this position.
 
-Allele
+**Allele**
 
 An allele (/əˈliːl/) is a variant form of a given gene. Sometimes, different alleles can result in different observable phenotypic traits, such as different pigmentation. A notable example of this trait of color variation is Gregor Mendel's discovery that the white and purple flower colors in pea plants were the result of "pure line" traits which could be used as a control for future experiments. However, most genetic variations result in little or no observable variation.
 
+**RStudio**
 
+RStudios is a program 
 
 
 
