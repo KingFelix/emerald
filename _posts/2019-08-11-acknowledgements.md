@@ -13,7 +13,6 @@ Thank you to all of our mothers for birthing us.
 
 Thanks in advance to everyone who will contribute to this site in the future...
 
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Best Regards, 
+The hypochondriacs
+![group_picture](/myDNA/img/project_group.jpg)
