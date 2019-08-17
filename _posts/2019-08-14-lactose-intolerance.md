@@ -19,8 +19,7 @@ Note: Make sure to have your genotyped genome saved in a folder onto your comput
 **Step 2:** Open RStudio and open a project.
 - Go to "File" in the top left corner of your laptop screen and then click on "New Project..."
 
-**Step 3:** Write the following code to download the myDNA to analyze your DNA. 
-Type the following code: 
+**Step 3:** Type the following code to download the myDNA package to analyze your DNA: 
 - install.packages("BiocManager")
 - BiocManager::install("IngaPa/myDNAS")
 Your code should look like this: 
