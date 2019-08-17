@@ -38,8 +38,8 @@ We made a program that compares your raw data after genotyping with a database w
 
 > "Best invention since the light bulb!" - Thomas Edison, 172
 
-Sources: [https://en.wikipedia.org/wiki/RStudio]()
+Sources:[https://en.wikipedia.org/wiki/RStudio](https://en.wikipedia.org/wiki/RStudio)
 
-[https://en.wikipedia.org/wiki/Allele]()
+[https://en.wikipedia.org/wiki/Allele](https://en.wikipedia.org/wiki/Allele)
 
-[https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism]()
+[https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism)
