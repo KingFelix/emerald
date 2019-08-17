@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+
 ### Here is a step-by-step guide to find it out
 
 ## Info: Make sure to have your genotyped genome saved in a folder onto your computer.
@@ -15,7 +16,7 @@ Dizygotic (DZ) or fraternal twins happen when two eggs are simultaneously fertil
 Genome-wide association study(GWAS) is an observational study of a genome-wide set of genetic variants in different individuals to see if any variant is associated with a trait. GWASs typically focus on associations between single-nucleotide polymorphisms (SNPs) and traits like major human diseases, but can equally be applied to any other genetic variants and any other organisms.
 There are SNPs in GWAS asocciated with dizygotic twin birthing:
 rs11031006-G, rs17293443-C, rs12064669-C,  rs428022-A, rs11031006-G
-
+![SNP]({{site.baseurl}}/_posts/Aug14_2018_AtlasOfScience_SNPs1891704823.jpg)![Aug14_2018_AtlasOfScience_SNPs1891704823.jpg]({{site.baseurl}}/_posts/Aug14_2018_AtlasOfScience_SNPs1891704823.jpg)
 
 
 With our programme represented down below you can easily find out if you have these risk alleles and so the posibility of having twins.
@@ -32,5 +33,3 @@ Sources: [https://genetics.thetech.org/ask-a-geneticist/twin-genetics](https://g
 		              [https://ghr.nlm.nih.gov/primer/traits/twins](https://ghr.nlm.nih.gov/primer/traits/twins)
 		 			  [https://www.sciencemag.org/news/2016/04/having-fraternal-twins-your-genes-and-your-hormonesfound](https://www.sciencemag.org/news/2016/04/having-fraternal-twins-your-genes-and-your-hormonesfound)
 gwastwin <- gwas[grep("twin", gwas$`DISEASE/TRAIT`), ]
-
-		 
