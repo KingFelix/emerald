@@ -20,6 +20,8 @@ that is not always the case. There are plenty of articles written about the prob
 
 - **[PRIVACY PROBLEMS](https://www.cnbc.com/2018/06/16/5-biggest-risks-of-sharing-dna-with-consumer-genetic-testing-companies.html)**
 	There has been many issues in the topic of the privacy of the consumers. We can find only pretty loose laws, and 	here can be many hackings as well. The problem is that even though perhaps  **BLABLABLA**
+-[**HELP?MONEY.**](https://www.cnbc.com/2018/06/16/5-biggest-risks-of-sharing-dna-with-consumer-genetic-testing-companies.html)
+	Some companies offer to the consumers the opportunity to decide what they would like to do with their data, 
 
 
 
