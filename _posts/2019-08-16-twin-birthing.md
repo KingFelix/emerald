@@ -1,6 +1,6 @@
 ---
 published: true
-title: How likely you are of having twins
+title: How likely you are of having twins?
 ---
 
 ### Here is a step-by-step guide to find it out
@@ -23,8 +23,7 @@ rs11031006-G, rs17293443-C, rs12064669-C,  rs428022-A, rs11031006-G
 With our programme represented down below you can easily find out if you have these risk alleles and so the posibility of having twins.
 Also you can learn more about genetics and programming doing so. For this programme we have used R programming language which is used for analyzing scientific data.
 
-###### Step 1:
-Step 1: Download R and RStudio
+###### Step 1: Download R and RStudio
 
 R: [https://cloud.r-project.org/](https://cloud.r-project.org/)
 RStudio: [https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe](https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe)
