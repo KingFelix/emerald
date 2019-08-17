@@ -27,7 +27,7 @@ Type the following code:
 - install.packages("BiocManager")
 - BiocManager::install("IngaPa/myDNAS")
 - Your code should look something like this: 
-![import_code](/myDNA/img/lactose_import.PNG)
+![install_code](/myDNA/img/code4lactose.PNG)
 
 **Step 4:** Write the code to screen for your allele in the specific positions in your genome. 
 - Call a function with the name e.g. "lactoseIntolerance" and link it to your folder.
