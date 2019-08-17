@@ -34,4 +34,4 @@ To do this write the following code and then run it:
 Compare your code with the code displayed below:
 ![install_code](/myDNA/img/allcode.PNG)
 
-Step 5: Now you can screen your DNA for lactose intolerance :)
+**Step 5:** Now you can screen your DNA for lactose intolerance :)
