@@ -17,21 +17,22 @@ Note: Make sure to have your genotyped genome saved in a folder onto your comput
 - RStudio: [https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe](https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe)
 
 **Step 2:** Open RStudio and open a project.
-- Go to "File" and then click on "Open Project..."
-- Select the folder containing your DNA and click "Open" in botton right corner. 
-Now you should be able to see the files your folder contains in the buttom-right window of your screen:
-![files_in_rstudio](/myDNA/img/IngaDNAonRstudio.PNG)
+- Go to "File" in the top left corner of your laptop screen and then click on "New Project..."
 
-**Step 3:** Write a function to screen for lactose intolerance.
+**Step 3:** Write the following code to download the myDNA to analyze your DNA. 
 Type the following code: 
 - install.packages("BiocManager")
 - BiocManager::install("IngaPa/myDNAS")
-- Your code should look something like this: 
+Your code should look like this: 
 ![install_code](/myDNA/img/code4lactose.PNG)
+Now you can run your code by clicking the "Run" button or by using the [ctrl][shift][enter] keys on your keyboard. 
 
-**Step 4:** Write the code to screen for your allele in the specific positions in your genome. 
-- Call a function with the name e.g. "lactoseIntolerance" and link it to your folder.
-- Screen your genotyped genome for the SNP "rs4988235".
-- If the SNP is not present in your genotype data, try with an imputed dataset.
-- Check your code using the following image: 
-![function_code](/myDNA/img/lactose_function.PNG)
+**Step 4:** IMPORTANT: If you are a Windows user, make sure to install Rtools before installing myDNA package. 
+To do this write the following code and then run it:
+- install.packages('installr')
+- library(installr)
+- installr:install.Rtools()
+Compare your code with the code displayed below:
+![install_code](/myDNA/img/allcode.PNG)
+
+Step 5: Now you can screen your DNA for lactose intolerance :)
