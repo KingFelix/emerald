@@ -16,7 +16,7 @@ Dizygotic (DZ) or fraternal twins happen when two eggs are simultaneously fertil
 Genome-wide association study(GWAS) is an observational study of a genome-wide set of genetic variants in different individuals to see if any variant is associated with a trait. GWASs typically focus on associations between single-nucleotide polymorphisms (SNPs) and traits like major human diseases, but can equally be applied to any other genetic variants and any other organisms.
 There are SNPs in GWAS asocciated with dizygotic twin birthing:
 rs11031006-G, rs17293443-C, rs12064669-C,  rs428022-A, rs11031006-G
-![Aug14_2018_AtlasOfScience_SNPs1891704823.jpg](/myDNA/imgAug14_2018_AtlasOfScience_SNPs1891704823.jpg)
+![Aug14_2018_AtlasOfScience_SNPs1891704823.jpg](/myDNA/img/Aug14_2018_AtlasOfScience_SNPs1891704823.jpg)
 
 
 With our programme represented down below you can easily find out if you have these risk alleles and so the posibility of having twins.
