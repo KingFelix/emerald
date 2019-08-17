@@ -2,7 +2,7 @@
 published: true
 ---
 ### Step-by-step guide to check whether risk allele for lactose intolerance can be found in your genome
-Info: Lactose Intolerance is primarily linked to 2 SNPs found in the introns of the MCM6 gene, which is associated with the LCT gene located thousands of base pairs away. 
+Info: Lactose Intolerance is primarily linked to SNPs found in the introns of the MCM6 gene, which is associated with the LCT gene located thousands of base pairs away. 
 - In 77% of Europeans: rs4988235 and rs182549, for which the (T) and (A) alleles, respectively are associated with lactase persistence (thus avoiding lactose intolerance).
 - A different SNP, rs145946881 is found to be associated with lactase persistence in sub-Saharan African populations. 
 - SNPs rs41380347 and rs41525747, are also associated to a lesser degree.
