@@ -5,3 +5,26 @@ published: true
 
 ## What is type 2 diabetes?
 
+### Overview
+
+Type 2 diabetes is a chronic condition that affects the way your body metabolizes sugar (glucose) — an important source of fuel for your body.
+
+With type 2 diabetes, your body either resists the effects of insulin — a hormone that regulates the movement of sugar into your cells — or doesn't produce enough insulin to maintain normal glucose levels.
+
+Type 2 diabetes used to be known as adult-onset diabetes, but today more children are being diagnosed with the disorder, probably due to the rise in childhood obesity. There's no cure for type 2 diabetes, but losing weight, eating well and exercising can help manage the disease. If diet and exercise aren't enough to manage your blood sugar well, you may also need diabetes medications or insulin therapy.
+
+### Symptoms
+
+Signs and symptoms of type 2 diabetes often develop slowly. In fact, you can have type 2 diabetes for years and not know it. Look for:
+
+- Increased thirst
+- Frequent urination
+- Increased hunger
+- Unintended weight loss
+- Fatigue
+- Blurred vision
+- Slow-healing sores
+- Frequent infections
+- Areas of darkened skin, usually in the armpits and neck
+
+
