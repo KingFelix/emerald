@@ -30,7 +30,10 @@ We made a program that compares your raw data after genotyping with a database w
 
 
 
-
 > "Wow, this blog allowed me to see that I am likely to get twins, which has been lifelong dream." - Julia HT, 19
 
 > "Best invention since the light bulb!" - Thomas Edison, 172
+
+Sources: https://en.wikipedia.org/wiki/RStudio
+https://en.wikipedia.org/wiki/Allele
+https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism
