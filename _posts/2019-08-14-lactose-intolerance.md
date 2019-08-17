@@ -23,11 +23,10 @@ Now you should be able to see the files your folder contains in the buttom-right
 ![files_in_rstudio](/myDNA/img/IngaDNAonRstudio.PNG)
 
 **Step 3:** Write a function to screen for lactose intolerance.
-Type the follwoign code: 
-- @param [insert name of your genotype file]
-- @import "stringr"
-- @examples
-- /dontrun { [insert all libraries you don't want to run]
+Type the following code: 
+- install.packages("BiocManager")
+- BiocManager::install("IngaPa/myDNAS")
+
 }
 - Your code should look something like this: 
 ![import_code](/myDNA/img/lactose_import.PNG)
