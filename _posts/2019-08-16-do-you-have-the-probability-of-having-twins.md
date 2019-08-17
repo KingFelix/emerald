@@ -12,9 +12,16 @@ Monozygotic (MZ) twins, also called identical twins, occur when a single egg cel
 Dizygotic (DZ) or fraternal twins happen when two eggs are simultaneously fertilized instead of just one. Usually, a woman only releases a single egg at a time. Fraternal twins can only happen if a mother releases two eggs in one cycle. This is called hyperovulation. Some women have versions (called alleles) of these genes that make them more likely to hyperovulate. This means there is a higher chance that two eggs could get fertilized at once, leading to fraternal twins. However, only women ovulate. So, the mother’s genes control this and the fathers don’t. Scientists have found two genes that increase a woman’s chance of having twins—one that affects follicle-stimulating hormone levels and another that may alter how ovaries respond to them. The second of these may also have implications for why some women respond better than others to in vitro fertilization.
 
 
+In the Genome-wide association study(GWAS-
+
+
 
 
 ###### Step 1:
+Step 1: Download R and RStudio
+
+R: [https://cloud.r-project.org/](https://cloud.r-project.org/)
+RStudio: [https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe](https://download1.rstudio.org/desktop/windows/RStudio-1.2.1335.exe)
 
                       
 Sources: [https://genetics.thetech.org/ask-a-geneticist/twin-genetics](https://genetics.thetech.org/ask-a-geneticist/twin-genetics)
