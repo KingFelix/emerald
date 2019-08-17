@@ -15,5 +15,6 @@ Thank you to all of our mothers for birthing us.
 Thanks in advance to everyone who will contribute to this site in the future...
 
 Best Regards, 
-The hypochondriacs
+
+The Hypochondriacs
 ![group_picture](/myDNA/img/project_group.jpg)
