@@ -25,9 +25,7 @@ An allele (/əˈliːl/) is a variant form of a given gene. Sometimes, different 
 
 **RStudio**
 
-RStudio is an integrated development environment (IDE) for R, a programming language for statistical computing and graphics. RStudio is available in two formats: RStudio Desktop, where the program is run locally as a regular desktop application; and RStudio Server, which allows accessing RStudio using a web browser while it is running on a remote Linux server.
-
-RStudio Desktop and RStudio Server are both available in free and fee-based (commercial) editions. OS support depends on the format/edition of the IDE. Prepackaged distributions of RStudio Desktop are available for Windows, macOS, and Linux.
+RStudio is an integrated development environment (IDE) for R, a programming language for statistical computing and graphics. RStudio is available in two formats: RStudio Desktop, where the program is run locally as a regular desktop application; and RStudio Server, which allows accessing RStudio using a web browser while it is running on a remote Linux server. RStudio Desktop and RStudio Server are both available in free and fee-based (commercial) editions. OS support depends on the format/edition of the IDE. Prepackaged distributions of RStudio Desktop are available for Windows, macOS, and Linux.
 
 
 
