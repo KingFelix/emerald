@@ -27,6 +27,6 @@ Signs and symptoms of type 2 diabetes often develop slowly. In fact, you can hav
 - Frequent infections
 - Areas of darkened skin, usually in the armpits and neck
 
-Genome-wide association study(GWAS) is an observational study of a genome-wide set of genetic variants in different individuals to see if any variant is associated with a trait. GWASs typically focus on associations between single-nucleotide polymorphisms (SNPs) and traits like major human diseases, but can equally be applied to any other genetic variants and any other organisms. The SNPs in GWAS associated with type 2 diabetes.
+Genome-wide association study(GWAS) is an observational study of a genome-wide set of genetic variants in different individuals to see if any variant is associated with a trait. GWASs typically focus on associations between [single-nucleotide polymorphisms (SNPs)](https://juliaht.github.io/myDNA//introduction) and traits like major human diseases, but can equally be applied to any other genetic variants and any other organisms. The SNPs in GWAS associated with type 2 diabetes.
 
 
