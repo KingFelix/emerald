@@ -17,7 +17,7 @@ Genome-wide association study(GWAS) is an observational study of a genome-wide s
 There are SNPs in GWAS asocciated with dizygotic twin birthing:
 rs11031006-G, rs17293443-C, rs12064669-C,  rs428022-A, rs11031006-G
 ![Aug14_2018_AtlasOfScience_SNPs1891704823.jpg](/myDNA/img/Aug14_2018_AtlasOfScience_SNPs1891704823.jpg)
-![files_in_rstudio](/myDNA/img/IngaDNAonRstudio.PNG)
+
 
 With our programme represented down below you can easily find out if you have these risk alleles and so the posibility of having twins.
 Also you can learn more about genetics and programming doing so. For this programme we have used R programming language which is used for analyzing scientific data.
