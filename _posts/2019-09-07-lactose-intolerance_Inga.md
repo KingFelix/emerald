@@ -1,5 +1,5 @@
 ---
-title: "Blog Post example"
+title: "Lactose intolerance"
 author: "Inga Patarcic"
 date: '2019-09-09'
 published: yes
@@ -10,7 +10,7 @@ tags:
 - R-package
 lastupdated: '2019-09-09'
 ---
-
+<br />
  
   
 # IDEA 
@@ -22,15 +22,24 @@ lastupdated: '2019-09-09'
 2. guide you to the myDNA lactose intolerance analysis.
 
   
-  
+<br />
   
 ## What is lactose intolerance??
 
-The ability to digest lactose as an adult is called lactase persistence. Opposite to it, a digestive disease caused by lactose malabsorption is called lactose intolerance.
+The ability to digest lactose as an adult is called __lactase persistence__. Opposite to it, a digestive disease caused by lactose malabsorption is called __lactose intolerance__.
  
-Lactose is a type of sugar in milk that is processed by an enzyme lactase in our small intestine. Lactase (lactase-phlorizin hydrolase or LPH) process lactose into two other sugar types: glucose and galactose.  When cells in your small intestine do not produce sufficient levels of lactase enzyme to digest all the lactose you eat or drink - lactose gets fermented by bacteria in the distal ileum and colon. Products of fermentation: hydrogen, methane and carbon dioxide cause nausea, bloating, diarrhea, gas, and/or unpleasant pain in abdomen (Olds and Sibley 2003). 
+__Lactose__ is a type of sugar in milk that is processed by an enzyme lactase in our small intestine. __Lactase__ (lactase-phlorizin hydrolase or LPH) process lactose into two other sugar types: glucose and galactose.  When cells in your small intestine do not produce sufficient levels of lactase enzyme to digest all the lactose you eat or drink - lactose gets fermented by bacteria in the distal ileum and colon. Products of fermentation: hydrogen, methane and carbon dioxide cause nausea, bloating, diarrhea, gas, and/or unpleasant pain in abdomen (Olds and Sibley 2003). 
 
-#[ADD IMAGE]
+<br />
+
+<center>
+
+![Lactose (In)tolerance.](D:/Projects_Helping/myDNA/myDNAS/myDNA_blog/myDNA_blog/img/lactoseI/li1.jpg){#id .class width=50% height=50%}
+
+</center>
+
+<br />
+
 
 The activity of lactase  is maximal at birth and declines with age. Many people experience the first symptoms of lactose intolerance at young adult age. For example, I had no wish to drink milk for years.  At the age of 26, after months of having problems with bloating, I finally realized I was lactose intolerant. Age at manifestation of primary lactose intolerance symptoms varies between ethnic groups (Seppo et al. 2008). 
 
@@ -40,11 +49,11 @@ The activity of lactase  is maximal at birth and declines with age. Many people 
 
 Lactose intolerance can be genetically or environmentally induced. 
 
-Genetically induced lactose intolerance is sometimes referred as primary lactose intolerance, adult-type hypolactasia, hereditary lactase deficiency or lactase non persistence. It corresponds to state when lactase (enzyme) is partially or fully absent in your gut and differences in lactase activity are due to genetic polymorphisms. In this case, lactose intolerance is genetically induced as a consequence of the reduction in the LCT gene expression. 
+__Genetically induced lactose intolerance__ is sometimes referred as primary lactose intolerance, adult-type hypolactasia, hereditary lactase deficiency or lactase non persistence. It corresponds to state when lactase (enzyme) is partially or fully absent in your gut and differences in lactase activity are due to genetic polymorphisms. In this case, lactose intolerance is genetically induced as a consequence of the reduction in the __LCT gene__ expression. 
 
 As for all other genes in the human genome, a level of gene expression of lactase (LCT) gene is precisely fine tuned by specific regions in the genome - gene regulatory elements. LCT gene is regulated by nearby cis-acting elements [(Wang et al. 1995)](https://www.ncbi.nlm.nih.gov/pubmed/7543318/). Multiple independent variants in those regions have allowed various human populations to quickly modify LCT expression [(Deng et al. 2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586575/) as an adoption to the domestication of dairy animals [(Bayless et al. 2017)](https://link.springer.com/article/10.1007%2Fs11894-017-0558-9).
 
-For example,  rs4988235 - also known as "C/T(-13910)" or just 13910T - is a genetic polymorphisms (SNPs) associated with lactose intolerance in European Caucasian populations [(Bersaglieri et al. 2004)](https://www.ncbi.nlm.nih.gov/pubmed/15114531?dopt=Abstract). 
+For example,  __rs4988235__ - also known as "C/T(-13910)" or just 13910T - is a genetic polymorphisms (SNPs) associated with lactose intolerance in European Caucasian populations [(Bersaglieri et al. 2004)](https://www.ncbi.nlm.nih.gov/pubmed/15114531?dopt=Abstract). 
 On this position in the genome, there are two possible alleles - C and T - and three possible genotypes CC, CT and TT.
 
 
@@ -90,9 +99,20 @@ BiocManager::install("IngaPa/myDNAS")
 ```{r}
 library(myDNA)	
 ```
+
+<br />
+
 Your R session should look as follows:
+
+<center>
+
+![Lactose (In)tolerance.]( D:/Projects_Helping/myDNA/myDNAS/myDNA_blog/myDNA_blog/img/lactoseI/blog_post1.png)
+
+</center>
+
+<br /> 
  
-#----[add figure here] 
+ 
   
   
 __Step 4. Import your genome in R by running:__  
@@ -253,18 +273,24 @@ __Results again indicate that I am likely lactose intolerant:__
 
 You can start querying on-line bioinformatics databases such as:
 
-[OMIM](https://www.omim.org/entry/223100),   
+
+[OMIM](https://www.omim.org/entry/223100),  
+
 [DISGENET](http://disgenet.org/browser/1/1/0/4175/), 
+
 [MedGen](https://www.ncbi.nlm.nih.gov/medgen/6001), and 
+
 [MalaCards](https://www.malacards.org/card/lactose_intolerance?search=lactose%20intolerance).
+
+<br />
 
 If you are interested in genetic background of lactose intolerance/persistence check:
 [SNPedia](https://www.snpedia.com/index.php/Rs4988235), 
 [openSNP](https://opensnp.org/search?utf8=%E2%9C%93&search=lactose+intolerance),...
 
+<br />
 
-
-You can also read scientific papers and follow their literature:
+You can also read scientific papers and follow their __literature__:
 
 1. Bersaglieri, T., Sabeti, P.C., Patterson, N., Vanderploeg, T., Schaffner, S.F., Drake, J.A., Rhodes, M., Reich, D.E. and Hirschhorn, J.N., 2004. Genetic signatures of strong recent positive selection at the lactase gene. The American Journal of Human Genetics, 74(6), pp.1111-1120.
 
@@ -281,9 +307,12 @@ You can also read scientific papers and follow their literature:
 7. Tishkoff, S.A., Reed, F.A., Ranciaro, A., Voight, B.F., Babbitt, C.C., Silverman, J.S., Powell, K., Mortensen, H.M., Hirbo, J.B., Osman, M. and Ibrahim, M., 2007. Convergent adaptation of human lactase persistence in Africa and Europe. Nature genetics, 39(1), p.31.
 
 
+<br />
 
 ## Appendix I: my full R code:
 [add figure here]
+
+<br />
 
 ## Appendix II: Details (sessionInfo) about analysis:
 [add figure here]
