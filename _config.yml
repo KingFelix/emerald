@@ -1,14 +1,14 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: This is my website
 description: "A minimal blog template, build with Jekyll."
-url: "http://msquarme.github.io"
+url: "https://msquarme.github.io"
 author:
   name: "Musie Meressa"
-  email:# "hello@jacoporabolini.com"
-  url: #"http://www.jacoporabolini.com"
+  # email: "hello@jacoporabolini.com"
+  # url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: #/emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -24,6 +24,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-seo
 
 # Custom variables
 version: "1.1.0"
