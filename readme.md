@@ -46,7 +46,7 @@ Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best 
 ### Jacopo Rabolini
 
 - Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
-- Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
+- Linkedin: [linkedin.com/in/jacopo-rabolini/](https://www.linkedin.com/in/jacopo-rabolini/)
 
 ## License
 Emerald is released under [MIT License](license.md).
