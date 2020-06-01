@@ -1,4 +1,4 @@
 ---
-title: Small text
+title: Hello
 ---
-This is an example of a blog post with small amount of text.
+Today you will learn about Planeteriums. 
