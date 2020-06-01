@@ -1,5 +1,5 @@
 ---
-title: History behind planetariums: 
+title: History behind planetariums 
 ---
 Famous planetariums in the United States are the Hayden in NY, Alder in Chicago, and the Griffith in Los angeles which were all built in the 1930s
 
